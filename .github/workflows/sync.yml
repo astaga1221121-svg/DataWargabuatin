@@ -2,11 +2,11 @@ name: BMKG Realtime Sync
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Berjalan otomatis setiap 3 jam
-  workflow_dispatch: # Memungkinkan dijalankan manual dari tab "Actions"
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write # Memberikan izin untuk push commit kembali ke repo
+  contents: write
 
 jobs:
   generate-matrix:
@@ -34,7 +34,7 @@ jobs:
       fail-fast: false
       matrix:
         file: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
-      max-parallel: 8 # Tetap aman dari rate limit 60/min
+      max-parallel: 8
     steps:
       - uses: actions/checkout@v4
       
