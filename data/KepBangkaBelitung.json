@@ -1,0 +1,22 @@
+[
+  {"adm4":"19.01.01.1001","desa":"Kelurahan Sungailiat","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.01.1001"},
+  {"adm4":"19.01.01.1002","desa":"Kelurahan Sri Menanti","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.01.1002"},
+  {"adm4":"19.01.01.1003","desa":"Kelurahan Kudai","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.01.1003"},
+  {"adm4":"19.01.01.1004","desa":"Kelurahan Sinar Baru","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.01.1004"},
+  {"adm4":"19.01.01.1005","desa":"Kelurahan Kenanga","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.01.1005"},
+  {"adm4":"19.01.01.1006","desa":"Kelurahan Parit Padang","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.01.1006"},
+  {"adm4":"19.01.01.2007","desa":"Desa Rebo","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.01.2007"},
+  {"adm4":"19.01.01.1008","desa":"Kelurahan Sinar Jaya Jelutung","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.01.1008"},
+  {"adm4":"19.01.01.1009","desa":"Kelurahan Matras","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.01.1009"},
+  {"adm4":"19.01.01.1010","desa":"Kelurahan Jelitik","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.01.1010"},
+  {"adm4":"19.01.01.1011","desa":"Kelurahan Surya Timur","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.01.1011"},
+  {"adm4":"19.01.01.1012","desa":"Kelurahan Lubuk Kelik","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.01.1012"},
+  {"adm4":"19.01.01.1013","desa":"Kelurahan Bukit Betung","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.01.1013"},
+
+  {"adm4":"19.01.02.1001","desa":"Kelurahan Kuto Panji","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.02.1001"},
+  {"adm4":"19.01.02.1002","desa":"Kelurahan Air Jukung","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.02.1002"},
+  {"adm4":"19.01.02.1003","desa":"Kelurahan Bukit Ketok","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.02.1003"},
+  {"adm4":"19.01.02.2004","desa":"Desa Gunung Muda","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.02.2004"},
+  {"adm4":"19.01.02.2005","desa":"Desa Gunung Pelawan","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=19.01.02.2005"}
+
+]

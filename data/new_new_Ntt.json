@@ -1,0 +1,100 @@
+[{
+  "adm4": "53.01.04.2003",
+  "desa": "Desa Bokonusan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.04.2003"
+},
+{
+  "adm4": "53.01.04.2004",
+  "desa": "Desa Otan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.04.2004"
+},
+{
+  "adm4": "53.01.04.2005",
+  "desa": "Desa Uitao",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.04.2005"
+},
+{
+  "adm4": "53.01.04.2006",
+  "desa": "Desa Uiasa",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.04.2006"
+},
+{
+  "adm4": "53.01.04.2008",
+  "desa": "Desa Hansisi",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.04.2008"
+},
+{
+  "adm4": "53.01.04.2009",
+  "desa": "Desa Huilelot",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.04.2009"
+},
+{
+  "adm4": "53.01.04.2011",
+  "desa": "Desa Batuinan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.04.2011"
+},
+{
+  "adm4": "53.01.04.2013",
+  "desa": "Desa Letbaun",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.04.2013"
+},
+{
+  "adm4": "53.01.05.1001",
+  "desa": "Kelurahan Oenesu",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.05.1001"
+},
+{
+  "adm4": "53.01.05.1002",
+  "desa": "Kelurahan Batakte",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.05.1002"
+},
+{
+  "adm4": "53.01.05.2003",
+  "desa": "Desa Manulai I",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.05.2003"
+},
+{
+  "adm4": "53.01.05.2004",
+  "desa": "Desa Sumlili",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.05.2004"
+},
+{
+  "adm4": "53.01.05.2005",
+  "desa": "Desa Lifuleo",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.05.2005"
+},
+{
+  "adm4": "53.01.05.2006",
+  "desa": "Desa Tesabela",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.05.2006"
+},
+{
+  "adm4": "53.01.05.2007",
+  "desa": "Desa Oematnunu",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.05.2007"
+},
+{
+  "adm4": "53.01.05.2008",
+  "desa": "Desa Kuanheun",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.05.2008"
+},
+{
+  "adm4": "53.01.05.2009",
+  "desa": "Desa Nitneo",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.05.2009"
+},
+{
+  "adm4": "53.01.05.2010",
+  "desa": "Desa Bolok",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.05.2010"
+},
+{
+  "adm4": "53.01.05.2011",
+  "desa": "Desa Tablolong",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.05.2011"
+},
+{
+  "adm4": "53.01.05.2012",
+  "desa": "Desa Oenaek",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=53.01.05.2012"
+}]

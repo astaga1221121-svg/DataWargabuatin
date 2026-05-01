@@ -1,0 +1,26 @@
+[ { "adm4": "62.01.01.2001", "desa": "Desa Sungai Cabang", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2001" },
+  { "adm4": "62.01.01.2002", "desa": "Desa Teluk Pulai", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2002" },
+  { "adm4": "62.01.01.2003", "desa": "Desa Sabuai", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2003" },
+  { "adm4": "62.01.01.2004", "desa": "Desa Keraya", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2004" },
+  { "adm4": "62.01.01.2005", "desa": "Desa Teluk Bogam", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2005" },
+  { "adm4": "62.01.01.2006", "desa": "Desa Sungai Bakau", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2006" },
+  { "adm4": "62.01.01.2007", "desa": "Desa Kubu", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2007" },
+  { "adm4": "62.01.01.2008", "desa": "Desa Sungai Kapitan", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2008" },
+  { "adm4": "62.01.01.2009", "desa": "Desa Batu Belaman", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2009" },
+  { "adm4": "62.01.01.2010", "desa": "Desa Sungai Tendang", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2010" },
+  { "adm4": "62.01.01.1011", "desa": "Kelurahan Candi", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.1011" },
+  { "adm4": "62.01.01.1012", "desa": "Kelurahan Kumai Hulu", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.1012" },
+  { "adm4": "62.01.01.1013", "desa": "Kelurahan Kumai Hilir", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.1013" },
+  { "adm4": "62.01.01.2014", "desa": "Desa Sungai Sekonyer", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2014" },
+  { "adm4": "62.01.01.2015", "desa": "Desa Sungai Bedaun", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2015" },
+  { "adm4": "62.01.01.2017", "desa": "Desa Bumi Harjo", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2017" },
+  { "adm4": "62.01.01.2032", "desa": "Desa Pangkalan Satu", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2032" },
+  { "adm4": "62.01.01.2034", "desa": "Desa Sabuai Timur", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.01.2034" },
+{ "adm4": "62.01.02.2001", "desa": "Desa Tanjung Putri", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.02.2001" },
+  { "adm4": "62.01.02.1002", "desa": "Kelurahan Mendawai Seberang", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=62.01.02.1002" }
+  
+
+
+
+
+]

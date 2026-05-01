@@ -1,0 +1,22 @@
+[ {"adm4":"12.02.02.2001","desa":"Desa Siraja Hutagalung","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.02.2001"},
+  {"adm4":"12.02.02.2002","desa":"Desa Pansur Napitu","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.02.2002"},
+  {"adm4":"12.02.02.2003","desa":"Desa Simanampang","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.02.2003"},
+  {"adm4":"12.02.02.2004","desa":"Desa Sidagal","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.02.2004"},
+  {"adm4":"12.02.02.2005","desa":"Desa Simarakir Julu","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.02.2005"},
+  {"adm4":"12.02.02.2006","desa":"Desa Enda Portibi","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.02.2006"},
+  {"adm4":"12.02.02.2007","desa":"Desa Simorangkir Habinsaran","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.02.2007"},
+  {"adm4":"12.02.02.2008","desa":"Desa Sangkaran","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.02.2008"},
+  {"adm4":"12.02.02.2009","desa":"Desa Lumban Siagian Jae","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.02.2009"},
+  {"adm4":"12.02.02.2010","desa":"Desa Lumban Siagian Julu","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.02.2010"},
+  {"adm4":"12.02.02.2011","desa":"Desa Sitompul","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.02.2011"},
+  {"adm4":"12.02.02.2012","desa":"Desa Lobu Hole","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.02.2012"},
+  {"adm4":"12.02.03.2001","desa":"Desa Dolok Nauli","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.03.2001"},
+  {"adm4":"12.02.03.2002","desa":"Desa Pansurbatu","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.03.2002"},
+  {"adm4":"12.02.03.2003","desa":"Desa Pardomuan Nauli","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.03.2003"},
+  {"adm4":"12.02.03.2004","desa":"Desa Siantar Naipospos","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.03.2004"},
+  {"adm4":"12.02.03.2005","desa":"Desa Sibalanga","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.03.2005"},
+  {"adm4":"12.02.03.2006","desa":"Desa Pagaran Lambung III","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.03.2006"},
+  {"adm4":"12.02.03.2007","desa":"Desa Pagaran Lambung IV","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.03.2007"},
+  {"adm4":"12.02.03.2008","desa":"Desa Adian Koting","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.03.2008"}
+ 
+]

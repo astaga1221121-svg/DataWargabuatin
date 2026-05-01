@@ -1,0 +1,23 @@
+[
+  {"adm4":"12.06.02.2001","desa":"Desa Daulu","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.02.2001"},
+  {"adm4":"12.06.02.2002","desa":"Desa Gurusinga","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.02.2002"},
+  {"adm4":"12.06.02.2003","desa":"Desa Raya","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.02.2003"},
+  {"adm4":"12.06.02.2004","desa":"Desa Rumah Berastagi","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.02.2004"},
+  {"adm4":"12.06.02.2005","desa":"Desa Sempajaya","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.02.2005"},
+  {"adm4":"12.06.02.1006","desa":"Kelurahan Tambak Lau Mulgab I","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.02.1006"},
+  {"adm4":"12.06.02.1007","desa":"Kelurahan Tambak Lau Mulgab II","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.02.1007"},
+  {"adm4":"12.06.02.1008","desa":"Kelurahan Gundaling I","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.02.1008"},
+  {"adm4":"12.06.02.1009","desa":"Kelurahan Gundaling II","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.02.1009"},
+  {"adm4":"12.06.02.2010","desa":"Desa Lau Gumba","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.02.2010"},
+  {"adm4":"12.06.01.2001","desa":"Desa Rumah Kabanjahe","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.01.2001"},
+  {"adm4":"12.06.01.2002","desa":"Desa Kaban","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.01.2002"},
+  {"adm4":"12.06.01.2003","desa":"Desa Ketaren","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.01.2003"},
+  {"adm4":"12.06.01.2004","desa":"Desa Samura","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.01.2004"},
+  {"adm4":"12.06.01.2005","desa":"Desa Lau Simomo","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.01.2005"},
+  {"adm4":"12.06.01.2006","desa":"Desa Sumber Mufakat","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.01.2006"},
+  {"adm4":"12.06.01.2007","desa":"Desa Kandibata","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.01.2007"},
+  {"adm4":"12.06.01.2008","desa":"Desa Kacaribu","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.01.2008"},
+  {"adm4":"12.06.01.1009","desa":"Kelurahan Padang Mas","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.06.01.1009"}
+
+]
+

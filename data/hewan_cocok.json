@@ -1,0 +1,54 @@
+[
+
+
+{"nama":"Ayam","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Sapi","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Kerbau","suhu_min":23,"suhu_max":31,"hu_min":65,"hu_max":85},
+{"nama":"Kambing","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Domba","suhu_min":22,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Bebek","suhu_min":23,"suhu_max":30,"hu_min":65,"hu_max":85},
+{"nama":"Itik","suhu_min":23,"suhu_max":30,"hu_min":65,"hu_max":85},
+{"nama":"Entok","suhu_min":23,"suhu_max":30,"hu_min":65,"hu_max":85},
+{"nama":"Burung Puyuh","suhu_min":23,"suhu_max":29,"hu_min":65,"hu_max":80},
+{"nama":"Kelinci","suhu_min":21,"suhu_max":28,"hu_min":60,"hu_max":80},
+{"nama":"Babi","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Kuda","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Angsa","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Merpati","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Dara","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Kalkun","suhu_min":20,"suhu_max":28,"hu_min":60,"hu_max":80},
+{"nama":"Pigeon","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Guinea Fowl","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Merak","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Angsa","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Dara","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Lovebird","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Parkit","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Kenari","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Jalak","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Cucakrawa","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Kacer","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Murai","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Pleci","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Cendet","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Hamster","suhu_min":20,"suhu_max":26,"hu_min":50,"hu_max":70},
+{"nama":"Guinea Pig","suhu_min":20,"suhu_max":26,"hu_min":50,"hu_max":70},
+{"nama":"Chinchilla","suhu_min":15,"suhu_max":25,"hu_min":50,"hu_max":70},
+{"nama":"Gerbil","suhu_min":20,"suhu_max":26,"hu_min":50,"hu_max":70},
+{"nama":"Sugar Glider","suhu_min":22,"suhu_max":28,"hu_min":50,"hu_max":70},
+{"nama":"Landak","suhu_min":22,"suhu_max":28,"hu_min":50,"hu_max":70},
+{"nama":"Iguana","suhu_min":26,"suhu_max":32,"hu_min":60,"hu_max":80},
+{"nama":"Kura-kura","suhu_min":24,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Musang","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Ferret","suhu_min":18,"suhu_max":26,"hu_min":50,"hu_max":70},
+{"nama":"Kucing","suhu_min":20,"suhu_max":28,"hu_min":50,"hu_max":70},
+{"nama":"Anjing","suhu_min":20,"suhu_max":28,"hu_min":50,"hu_max":70},
+{"nama":"Burung Finch","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Nuri","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80},
+{"nama":"Burung Kakaktua","suhu_min":23,"suhu_max":30,"hu_min":60,"hu_max":80}
+
+
+
+
+
+]

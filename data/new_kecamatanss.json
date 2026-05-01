@@ -1,0 +1,100 @@
+[{
+    "adm4": "36.01.01.2001",
+    "desa": "Desa Sumberjaya",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.01.2001"
+  },
+  {
+    "adm4": "36.01.01.2002",
+    "desa": "Desa Kertajaya",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.01.2002"
+  },
+  {
+    "adm4": "36.01.01.2003",
+    "desa": "Desa Kertamukti",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.01.2003"
+  },
+  {
+    "adm4": "36.01.01.2004",
+    "desa": "Desa Tunggaljaya",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.01.2004"
+  },
+  {
+    "adm4": "36.01.01.2005",
+    "desa": "Desa Cigorondong",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.01.2005"
+  },
+  {
+    "adm4": "36.01.01.2006",
+    "desa": "Desa Tamanjaya",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.01.2006"
+  },
+  {
+    "adm4": "36.01.01.2007",
+    "desa": "Desa Ujungjaya",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.01.2007"
+  },
+{
+    "adm4": "36.01.02.2001",
+    "desa": "Desa Rancapinang",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.02.2001"
+  },
+  {
+    "adm4": "36.01.02.2002",
+    "desa": "Desa Cibadak",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.02.2002"
+  },
+  {
+    "adm4": "36.01.02.2003",
+    "desa": "Desa Tugu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.02.2003"
+  },
+  {
+    "adm4": "36.01.02.2004",
+    "desa": "Desa Batuhideung",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.02.2004"
+  },
+  {
+    "adm4": "36.01.02.2005",
+    "desa": "Desa Padasuka",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.02.2005"
+  },
+  {
+    "adm4": "36.01.02.2006",
+    "desa": "Desa Ciburial",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.02.2006"
+  },
+  {
+    "adm4": "36.01.02.2007",
+    "desa": "Desa Cijaralang",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.02.2007"
+  },
+  {
+    "adm4": "36.01.02.2008",
+    "desa": "Desa Cimanggu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.02.2008"
+  },
+  {
+    "adm4": "36.01.02.2009",
+    "desa": "Desa Mangkualam",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.02.2009"
+  },
+  {
+    "adm4": "36.01.02.2010",
+    "desa": "Desa Tangkil Sari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.02.2010"
+  },
+  {
+    "adm4": "36.01.02.2011",
+    "desa": "Desa Waringin Kurung",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.02.2011"
+  },
+  {
+    "adm4": "36.01.02.2012",
+    "desa": "Desa Kramatjaya",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.02.2012"
+  },
+{
+    "adm4": "36.01.03.2001",
+    "desa": "Desa Mendung",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=36.01.03.2001"
+  }]

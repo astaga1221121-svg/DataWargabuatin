@@ -1,0 +1,100 @@
+[ {
+    "adm4": "81.01.01.2001",
+    "desa": "Negeri Tamilouw",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2001"
+  },
+  {
+    "adm4": "81.01.01.2002",
+    "desa": "Negeri Sepa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2002"
+  },
+  {
+    "adm4": "81.01.01.2003",
+    "desa": "Negeri Rutah",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2003"
+  },
+  {
+    "adm4": "81.01.01.2004",
+    "desa": "Negeri Soahuku",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2004"
+  },
+  {
+    "adm4": "81.01.01.2005",
+    "desa": "Negeri Amahai",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2005"
+  },
+  {
+    "adm4": "81.01.01.2006",
+    "desa": "Negeri Haruru",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2006"
+  },
+  {
+    "adm4": "81.01.01.2007",
+    "desa": "Negeri Sehati",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2007"
+  },
+  {
+    "adm4": "81.01.01.2008",
+    "desa": "Negeri Makariki",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2008"
+  },
+  {
+    "adm4": "81.01.01.1009",
+    "desa": "Kelurahan Hollo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.1009"
+  },
+  {
+    "adm4": "81.01.01.2010",
+    "desa": "Negeri Yafila",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2010"
+  },
+  {
+    "adm4": "81.01.01.2011",
+    "desa": "Negeri Banda Baru",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2011"
+  },
+  {
+    "adm4": "81.01.01.2020",
+    "desa": "Negeri Yainuelo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2020"
+  },
+  {
+    "adm4": "81.01.01.2021",
+    "desa": "Negeri Nua Nea",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2021"
+  },
+  {
+    "adm4": "81.01.01.2022",
+    "desa": "Negeri Hatuhenu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2022"
+  },
+  {
+    "adm4": "81.01.01.2023",
+    "desa": "Negeri Nuweletetu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.01.2023"
+  },
+{
+    "adm4": "81.01.02.2001",
+    "desa": "Negeri Usliapan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.02.2001"
+  },
+  {
+    "adm4": "81.01.02.2002",
+    "desa": "Negeri Kuralele",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.02.2002"
+  },
+  {
+    "adm4": "81.01.02.2003",
+    "desa": "Negeri Kokroman",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.02.2003"
+  },
+  {
+    "adm4": "81.01.02.2004",
+    "desa": "Negeri Messa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.02.2004"
+  },
+  {
+    "adm4": "81.01.02.2005",
+    "desa": "Negeri Ameth",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=81.01.02.2005"
+  }]

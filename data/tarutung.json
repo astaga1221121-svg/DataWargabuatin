@@ -1,0 +1,7 @@
+[
+  {"adm4":"12.02.01.1001","desa":"Kelurahan Partoli Toruan","lat": 2.0233, "lon": 98.9686, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.01.1001"},
+  {"adm4":"12.02.01.1002","desa":"Kelurahan Hutatoruan V","lat": 2.0250, "lon": 98.9700, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.01.1002"},
+  {"adm4":"12.02.01.1003","desa":"Kelurahan Hutatoruan VI","lat": 2.0210, "lon": 98.9650, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.01.1003"},
+  {"adm4":"12.02.01.2010","desa":"Desa Hutapea Banuarea","lat": 2.0100, "lon": 98.9500, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.01.2010"},
+  {"adm4":"12.02.01.2030","desa":"Desa Hutatoruan I","lat": 2.0300, "lon": 98.9800, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.02.01.2030"}
+]

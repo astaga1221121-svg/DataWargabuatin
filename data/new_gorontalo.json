@@ -1,0 +1,126 @@
+[
+
+
+
+
+
+  {
+    "adm4": "75.01.01.1001",
+    "desa": "Kelurahan Kayubulan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1001"
+  },
+  {
+    "adm4": "75.01.01.1002",
+    "desa": "Kelurahan Kayumerah",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1002"
+  },
+  {
+    "adm4": "75.01.01.1003",
+    "desa": "Kelurahan Hunggaluwa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1003"
+  },
+  {
+    "adm4": "75.01.01.1004",
+    "desa": "Kelurahan Bolihuangga",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1004"
+  },
+  {
+    "adm4": "75.01.01.1005",
+    "desa": "Kelurahan Hepuhulawa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1005"
+  },
+  {
+    "adm4": "75.01.01.1006",
+    "desa": "Kelurahan Hutuo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1006"
+  },
+  {
+    "adm4": "75.01.01.1007",
+    "desa": "Kelurahan Dutulanaa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1007"
+  },
+  {
+    "adm4": "75.01.01.1008",
+    "desa": "Kelurahan Tenilo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1008"
+  },
+  {
+    "adm4": "75.01.01.1009",
+    "desa": "Kelurahan Biyonga",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1009"
+  },
+  {
+    "adm4": "75.01.01.1010",
+    "desa": "Kelurahan Bongohulawa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1010"
+  },
+  {
+    "adm4": "75.01.01.1011",
+    "desa": "Kelurahan Bulota",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1011"
+  },
+  {
+    "adm4": "75.01.01.1012",
+    "desa": "Kelurahan Malahu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1012"
+  },
+  {
+    "adm4": "75.01.01.1013",
+    "desa": "Kelurahan Tilihuwa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1013"
+  },
+  {
+    "adm4": "75.01.01.1014",
+    "desa": "Kelurahan Polohungo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.01.1014"
+  },
+{
+    "adm4": "75.01.02.2011",
+    "desa": "Desa Bulila",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.02.2011"
+  },
+  {
+    "adm4": "75.01.02.2014",
+    "desa": "Desa Mongolato",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.02.2014"
+  },
+  {
+    "adm4": "75.01.02.2015",
+    "desa": "Desa Luhu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.02.2015"
+  },
+  {
+    "adm4": "75.01.02.2016",
+    "desa": "Desa Hulawa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.02.2016"
+  },
+  {
+    "adm4": "75.01.02.2017",
+    "desa": "Desa Pilohayanga",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.02.2017"
+  },
+  {
+    "adm4": "75.01.02.2018",
+    "desa": "Desa Dulamayo Selatan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.02.2018"
+  },
+  {
+    "adm4": "75.01.02.2019",
+    "desa": "Desa Dulamayo Barat",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.02.2019"
+  },
+  {
+    "adm4": "75.01.02.2020",
+    "desa": "Desa Dulohupa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.02.2020"
+  },
+  {
+    "adm4": "75.01.02.2021",
+    "desa": "Desa Pilohayanga Barat",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=75.01.02.2021"
+  }
+ 
+
+
+
+]

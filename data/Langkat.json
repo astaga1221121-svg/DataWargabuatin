@@ -1,0 +1,22 @@
+[
+  {"adm4":"12.05.01.1001","desa":"Kelurahan Pekan Bahorok","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.1001"},
+  {"adm4":"12.05.01.2002","desa":"Desa Lau Damak","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2002"},
+  {"adm4":"12.05.01.2003","desa":"Desa Timbang Lawan","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2003"},
+  {"adm4":"12.05.01.2004","desa":"Desa Sampe Raya","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2004"},
+  {"adm4":"12.05.01.2005","desa":"Desa Tanjung Lenggang","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2005"},
+  {"adm4":"12.05.01.2006","desa":"Desa Suka Rakyat","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2006"},
+  {"adm4":"12.05.01.2007","desa":"Desa Perkebunan Turangi","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2007"},
+  {"adm4":"12.05.01.2008","desa":"Desa Perkebunan Bungara","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2008"},
+  {"adm4":"12.05.01.2009","desa":"Desa Perkebunan B. Lawang","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2009"},
+  {"adm4":"12.05.01.2011","desa":"Desa Empus","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2011"},
+  {"adm4":"12.05.01.2012","desa":"Desa Simpang Pulo Rambung","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2012"},
+  {"adm4":"12.05.01.2013","desa":"Desa Perkebunan Sei Musam","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2013"},
+  {"adm4":"12.05.01.2014","desa":"Desa Batu Jong - Jong","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2014"},
+  {"adm4":"12.05.01.2015","desa":"Desa Sematar","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2015"},
+  {"adm4":"12.05.01.2016","desa":"Desa Perkebunan Pulo Rambung","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2016"},
+  {"adm4":"12.05.01.2017","desa":"Desa Sei Musam Kendit","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2017"},
+  {"adm4":"12.05.01.2020","desa":"Desa Timbang Jaya","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2020"},
+  {"adm4":"12.05.01.2021","desa":"Desa Musam Pembangunan","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2021"},
+  {"adm4":"12.05.01.2022","desa":"Desa Ujung Bandar","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.05.01.2022"}
+
+]

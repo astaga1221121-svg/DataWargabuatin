@@ -1,0 +1,100 @@
+[  {
+    "adm4": "74.01.01.1001",
+    "desa": "Kelurahan 19 Nopember",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.01.1001"
+  },
+  {
+    "adm4": "74.01.01.1002",
+    "desa": "Kelurahan Wundulako",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.01.1002"
+  },
+  {
+    "adm4": "74.01.01.1003",
+    "desa": "Kelurahan Lamekongga",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.01.1003"
+  },
+  {
+    "adm4": "74.01.01.1004",
+    "desa": "Kelurahan Kowioha",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.01.1004"
+  },
+  {
+    "adm4": "74.01.01.1005",
+    "desa": "Kelurahan Silea",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.01.1005"
+  },
+  {
+    "adm4": "74.01.01.2006",
+    "desa": "Desa Towua",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.01.2006"
+  },
+  {
+    "adm4": "74.01.01.2007",
+    "desa": "Desa Bende",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.01.2007"
+  },
+  {
+    "adm4": "74.01.01.2008",
+    "desa": "Desa Unamendaa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.01.2008"
+  },
+  {
+    "adm4": "74.01.01.2009",
+    "desa": "Desa Tikonu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.01.2009"
+  },
+  {
+    "adm4": "74.01.01.2010",
+    "desa": "Desa Sabiona",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.01.2010"
+  },
+  {
+    "adm4": "74.01.01.1011",
+    "desa": "Kelurahan Ngapa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.01.1011"
+  },
+  {
+    "adm4": "74.01.04.1001",
+    "desa": "Kelurahan Lamokato",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.04.1001"
+  },
+  {
+    "adm4": "74.01.04.1002",
+    "desa": "Kelurahan Watuliandu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.04.1002"
+  },
+  {
+    "adm4": "74.01.04.1003",
+    "desa": "Kelurahan Balandete",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.04.1003"
+  },
+  {
+    "adm4": "74.01.04.1004",
+    "desa": "Kelurahan Lalombaa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.04.1004"
+  },
+  {
+    "adm4": "74.01.04.1005",
+    "desa": "Kelurahan Sabilambo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.04.1005"
+  },
+  {
+    "adm4": "74.01.04.1006",
+    "desa": "Kelurahan Laloeha",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.04.1006"
+  },
+  {
+    "adm4": "74.01.04.1007",
+    "desa": "Kelurahan Tahoa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.04.1007"
+  },
+  {
+    "adm4": "74.01.07.1001",
+    "desa": "Kelurahan Dawi-Dawi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.07.1001"
+  },
+  {
+    "adm4": "74.01.07.1002",
+    "desa": "Kelurahan Pomalaa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=74.01.07.1002"
+  }]

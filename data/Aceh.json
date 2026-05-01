@@ -1,0 +1,22 @@
+[
+  {"adm4":"11.01.01.2001","desa":"Gampong Keude Bakongan","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.01.2001"},
+  {"adm4":"11.01.01.2002","desa":"Gampong Ujong Mangki","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.01.2002"},
+  {"adm4":"11.01.01.2003","desa":"Gampong Ujong Padang","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.01.2003"},
+  {"adm4":"11.01.01.2004","desa":"Gampong Drien","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.01.2004"},
+  {"adm4":"11.01.01.2015","desa":"Gampong Darul Ikhsan","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.01.2015"},
+  {"adm4":"11.01.01.2016","desa":"Gampong Padang Beurahan","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.01.2016"},
+  {"adm4":"11.01.01.2017","desa":"Gampong Baro","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.01.2017"},
+  {"adm4":"11.01.02.2001","desa":"Gampong Fajar Harapan","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.02.2001"},
+  {"adm4":"11.01.02.2002","desa":"Gampong Krueng Batee","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.02.2002"},
+  {"adm4":"11.01.02.2003","desa":"Gampong Pasi Kuala Asahan","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.02.2003"},
+  {"adm4":"11.01.02.2004","desa":"Gampong Gunung Pulo","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.02.2004"},
+  {"adm4":"11.01.02.2005","desa":"Gampong Pulo Ie I","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.02.2005"},
+  {"adm4":"11.01.02.2006","desa":"Gampong Jambo Manyang","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.02.2006"},
+  {"adm4":"11.01.02.2007","desa":"Gampong Simpang Empat","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.02.2007"},
+  {"adm4":"11.01.02.2008","desa":"Gampong Limau Purut","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.02.2008"},
+  {"adm4":"11.01.02.2009","desa":"Gampong Pulo Kambing","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.02.2009"},
+  {"adm4":"11.01.02.2010","desa":"Gampong Kampung Paya","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.02.2010"},
+  {"adm4":"11.01.02.2011","desa":"Gampong Krueng Batu","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.02.2011"},
+  {"adm4":"11.01.02.2012","desa":"Gampong Krueng Kluet","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=11.01.02.2012"}
+
+]

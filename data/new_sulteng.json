@@ -1,0 +1,85 @@
+[{
+    "adm4": "72.01.01.2002",
+    "desa": "Desa Nonong",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.01.2002"
+  },
+  {
+    "adm4": "72.01.01.2003",
+    "desa": "Desa Kayowa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.01.2003"
+  },
+  {
+    "adm4": "72.01.01.2005",
+    "desa": "Desa Ondo-Ondolu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.01.2005"
+  },
+  {
+    "adm4": "72.01.01.1006",
+    "desa": "Kelurahan Bugis",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.01.1006"
+  },
+  {
+    "adm4": "72.01.01.1007",
+    "desa": "Kelurahan Balantang",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.01.1007"
+  },
+  {
+    "adm4": "72.01.01.1008",
+    "desa": "Kelurahan Batui",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.01.1008"
+  },
+  {
+    "adm4": "72.01.01.1009",
+    "desa": "Kelurahan Tolando",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.01.1009"
+  },
+  {
+    "adm4": "72.01.01.1010",
+    "desa": "Kelurahan Lamo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.01.1010"
+  },
+  {
+    "adm4": "72.01.01.2011",
+    "desa": "Desa Honbola",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.01.2011"
+  },
+  {
+    "adm4": "72.01.01.2012",
+    "desa": "Desa Uso",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.01.2012"
+  },
+  {
+    "adm4": "72.01.01.2016",
+    "desa": "Desa Ondo-Ondolu I",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.01.2016"
+  },
+  {
+    "adm4": "72.01.01.1017",
+    "desa": "Kelurahan Sisipan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.01.1017"
+  },
+  {
+    "adm4": "72.01.01.1023",
+    "desa": "Kelurahan Bakung",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.01.1023"
+  },
+  {
+    "adm4": "72.01.02.1014",
+    "desa": "Kelurahan Bunta I",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.02.1014"
+  },
+  {
+    "adm4": "72.01.02.2015",
+    "desa": "Desa Bohotokong",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.02.2015"
+  },
+  {
+    "adm4": "72.01.02.2016",
+    "desa": "Desa Dondo Soboli",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.02.2016"
+  },
+  {
+    "adm4": "72.01.02.2017",
+    "desa": "Desa Laonggo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=72.01.02.2017"
+  }]

@@ -1,0 +1,85 @@
+[{
+    "adm4": "71.01.05.2001",
+    "desa": "Desa Ayong",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.05.2001"
+  },
+  {
+    "adm4": "71.01.05.2002",
+    "desa": "Desa Babo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.05.2002"
+  },
+  {
+    "adm4": "71.01.05.2003",
+    "desa": "Desa Bolangat",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.05.2003"
+  },
+  {
+    "adm4": "71.01.05.2004",
+    "desa": "Desa Maelang",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.05.2004"
+  },
+  {
+    "adm4": "71.01.05.2005",
+    "desa": "Desa Domisil Moonow",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.05.2005"
+  },
+  {
+    "adm4": "71.01.05.2006",
+    "desa": "Desa Pangi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.05.2006"
+  },
+  {
+    "adm4": "71.01.05.2012",
+    "desa": "Desa Lolanan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.05.2012"
+  },
+  {
+    "adm4": "71.01.05.2015",
+    "desa": "Desa Cempaka",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.05.2015"
+  },
+  {
+    "adm4": "71.01.05.2017",
+    "desa": "Desa Batu Merah",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.05.2017"
+  },
+  {
+    "adm4": "71.01.05.2018",
+    "desa": "Desa Pasir Putih",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.05.2018"
+  },
+  {
+    "adm4": "71.01.05.2019",
+    "desa": "Desa Pangi Timur",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.05.2019"
+  },
+  {
+    "adm4": "71.01.05.2020",
+    "desa": "Desa Bolangat Timur",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.05.2020"
+  },
+  {
+    "adm4": "71.01.09.2001",
+    "desa": "Desa Matayangan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.09.2001"
+  },
+  {
+    "adm4": "71.01.09.2002",
+    "desa": "Desa Uuan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.09.2002"
+  },
+  {
+    "adm4": "71.01.09.2003",
+    "desa": "Desa Ikhwan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.09.2003"
+  },
+  {
+    "adm4": "71.01.09.2004",
+    "desa": "Desa Doloduo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.09.2004"
+  },
+  {
+    "adm4": "71.01.09.2005",
+    "desa": "Desa Wangga Baru",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=71.01.09.2005"
+  }]

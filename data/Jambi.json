@@ -1,0 +1,22 @@
+[
+  {"adm4":"15.71.01.1001","desa":"Kelurahan Simpang IV Sipin","lat": -1.6152, "lon": 103.5855, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.01.1001"},
+  {"adm4":"15.71.01.1002","desa":"Kelurahan Buluran Kenali","lat": -1.5952, "lon": 103.5755, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.01.1002"},
+  {"adm4":"15.71.01.1003","desa":"Kelurahan Teluk Kenali","lat": -1.5852, "lon": 103.5655, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.01.1003"},
+  {"adm4":"15.71.01.1004","desa":"Kelurahan Telanaipura","lat": -1.6100, "lon": 103.5900, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.01.1004"},
+  {"adm4":"15.71.01.1005","desa":"Kelurahan Pematang Sulur","lat": -1.6050, "lon": 103.5700, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.01.1005"},
+  {"adm4":"15.71.01.1006","desa":"Kelurahan Aur Duri","lat": -1.5900, "lon": 103.5800, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.01.1006"},
+  {"adm4":"15.71.01.1007","desa":"Kelurahan Solok Sipin","lat": -1.6180, "lon": 103.6000, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.01.1007"},
+  {"adm4":"15.71.01.1008","desa":"Kelurahan Murni","lat": -1.6120, "lon": 103.6050, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.01.1008"},
+  {"adm4":"15.71.01.1009","desa":"Kelurahan Legok","lat": -1.5980, "lon": 103.6100, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.01.1009"},
+  {"adm4":"15.71.01.1010","desa":"Kelurahan Penyengat Rendah","lat": -1.5700, "lon": 103.6000, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.01.1010"},
+  {"adm4":"15.71.02.1001","desa":"Kelurahan Pakuan Baru","lat": -1.6250, "lon": 103.6200, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.02.1001"},
+  {"adm4":"15.71.02.1002","desa":"Kelurahan Tambak Sari","lat": -1.6300, "lon": 103.6150, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.02.1002"},
+  {"adm4":"15.71.02.1003","desa":"Kelurahan The Hok","lat": -1.6350, "lon": 103.6300, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.02.1003"},
+  {"adm4":"15.71.03.1001","desa":"Kelurahan Pasar Jambi","lat": -1.5900, "lon": 103.6150, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.03.1001"},
+  {"adm4":"15.71.04.1001","desa":"Kelurahan Jelutung","lat": -1.6100, "lon": 103.6100, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.04.1001"},
+  {"adm4":"15.71.06.1001","desa":"Kelurahan Kota Baru","lat": -1.6500, "lon": 103.5900, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.06.1001"},
+  {"adm4":"15.71.06.1002","desa":"Kelurahan Paal Lima","lat": -1.6400, "lon": 103.5850, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.06.1002"},
+  {"adm4":"15.71.06.1003","desa":"Kelurahan Kenali Asam Bawah","lat": -1.6600, "lon": 103.5750, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.06.1003"},
+  {"adm4":"15.71.06.1004","desa":"Kelurahan Kenali Asam Atas","lat": -1.6700, "lon": 103.5650, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.06.1004"},
+  {"adm4":"15.71.07.1001","desa":"Kelurahan Teluk Duren","lat": -1.5600, "lon": 103.6200, "url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=15.71.07.1001"}
+]

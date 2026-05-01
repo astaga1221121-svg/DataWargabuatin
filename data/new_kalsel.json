@@ -1,0 +1,22 @@
+[{ "adm4": "63.01.01.2001", "desa": "Desa Banua lawas", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.01.2001" },
+  { "adm4": "63.01.01.2002", "desa": "Desa Tabanio", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.01.2002" },
+  { "adm4": "63.01.01.2003", "desa": "Desa Kuala Tambangan", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.01.2003" },
+  { "adm4": "63.01.01.2004", "desa": "Desa Takisung", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.01.2004" },
+  { "adm4": "63.01.01.2005", "desa": "Desa Gunung Makmur", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.01.2005" },
+  { "adm4": "63.01.01.2006", "desa": "Desa Banua Tengah", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.01.2006" },
+  { "adm4": "63.01.01.2007", "desa": "Desa Ranggang", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.01.2007" },
+  { "adm4": "63.01.01.2008", "desa": "Desa Pagatan Besar", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.01.2008" },
+  { "adm4": "63.01.01.2009", "desa": "Desa Batilai", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.01.2009" },
+  { "adm4": "63.01.01.2010", "desa": "Desa Ranggang Dalam", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.01.2010" },
+  { "adm4": "63.01.01.2011", "desa": "Desa Telaga langsat", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.01.2011" },
+  { "adm4": "63.01.01.2012", "desa": "Desa Sumber Makmur", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.01.2012" },
+{ "adm4": "63.01.02.2001", "desa": "Desa Sabuhur", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.02.2001" },
+  { "adm4": "63.01.02.2002", "desa": "Desa Jorong", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.02.2002" },
+  { "adm4": "63.01.02.2003", "desa": "Desa Asam-Asam", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.02.2003" },
+  { "adm4": "63.01.02.2004", "desa": "Desa Batalang", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.02.2004" },
+  { "adm4": "63.01.02.2005", "desa": "Desa Swarangan", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.02.2005" },
+  { "adm4": "63.01.02.2006", "desa": "Desa Muara Asam-Asam", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.02.2006" },
+  { "adm4": "63.01.02.2007", "desa": "Desa Alur", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.02.2007" },
+  { "adm4": "63.01.02.2008", "desa": "Desa Asri Mulya", "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=63.01.02.2008" }
+ 
+]

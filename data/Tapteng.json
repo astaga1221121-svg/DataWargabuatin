@@ -1,0 +1,25 @@
+[{"adm4":"12.01.01.1001","desa":"Kelurahan Pasar Batu Gerigis","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.01.1001"},
+  {"adm4":"12.01.01.1002","desa":"Kelurahan Padang Masiang","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.01.1002"},
+  {"adm4":"12.01.01.2003","desa":"Desa Kampung Solok","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.01.2003"},
+  {"adm4":"12.01.01.2004","desa":"Desa Pasar Terandam","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.01.2004"},
+  {"adm4":"12.01.01.2005","desa":"Desa Sigambo Gambo","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.01.2005"},
+  {"adm4":"12.01.01.2006","desa":"Desa Ujung Batu","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.01.2006"},
+  {"adm4":"12.01.01.2007","desa":"Desa Kinali","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.01.2007"},
+  {"adm4":"12.01.01.2008","desa":"Desa Kampung Mudik","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.01.2008"},
+  {"adm4":"12.01.01.2009","desa":"Desa Aek Dakka","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.01.2009"},
+  {"adm4":"12.01.01.2010","desa":"Desa Patupangan","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.01.2010"},
+  {"adm4":"12.01.01.2011","desa":"Desa Gabungan Hasang","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.01.2011"},
+  {"adm4":"12.01.01.2017","desa":"Desa Bungo Tanjung","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.01.2017"},
+  {"adm4":"12.01.01.2018","desa":"Desa Kedai Gedang","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.01.2018"}, 
+  {"adm4":"12.01.02.1001","desa":"Kelurahan Sorkam","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.02.1001"},
+  {"adm4":"12.01.02.1002","desa":"Kelurahan Pargarutan","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.02.1002"},
+  {"adm4":"12.01.02.2003","desa":"Desa Teluk Roban","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.02.2003"},
+  {"adm4":"12.01.02.1004","desa":"Kelurahan Tarutung Bolak","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.02.1004"},
+  {"adm4":"12.01.02.2005","desa":"Desa Fajar","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.02.2005"},
+  {"adm4":"12.01.02.2006","desa":"Desa Pardamean","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.02.2006"},
+  {"adm4":"12.01.02.2007","desa":"Desa Pelita","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=12.01.02.2007"}
+
+
+  
+ 
+]

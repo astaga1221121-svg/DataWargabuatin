@@ -1,0 +1,23 @@
+[ {
+    "adm4": "34.01.01.2001",
+    "desa": "Kalurahan Jangkaran",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2001"
+  },
+  {
+    "adm4": "34.01.01.2002",
+    "desa": "Kalurahan Sindutan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2002"
+  },
+  {
+    "adm4": "34.01.01.2003",
+    "desa": "Kalurahan Palihan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2003"
+  },
+  {
+    "adm4": "34.01.01.2004",
+    "desa": "Kalurahan Glagah",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2004"
+  }
+
+]
+ 

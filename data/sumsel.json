@@ -1,0 +1,22 @@
+[{"adm4":"16.72.01.1001","desa":"Kelurahan Sukorejo","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.01.1001"},
+  {"adm4":"16.72.01.1002","desa":"Kelurahan Bangun Rejo","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.01.1002"},
+  {"adm4":"16.72.01.1005","desa":"Kelurahan Pagar Alam","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.01.1005"},
+  {"adm4":"16.72.01.1007","desa":"Kelurahan Alun Dua","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.01.1007"},
+  {"adm4":"16.72.01.1014","desa":"Kelurahan Selibar","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.01.1014"},
+  {"adm4":"16.72.01.1016","desa":"Kelurahan Beringin Jaya","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.01.1016"},
+  {"adm4":"16.72.01.1018","desa":"Kelurahan Dempio Makmur","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.01.1018"},
+  {"adm4":"16.72.01.1019","desa":"Kelurahan Kusipan Babas","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.01.1019"},
+  {"adm4":"16.72.01.1020","desa":"Kelurahan Bangun Jaya","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.01.1020"},
+  {"adm4":"16.72.01.1021","desa":"Kelurahan Curup Jare","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.01.1021"},
+  {"adm4":"16.72.02.1003","desa":"Kelurahan Sidorejo","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.02.1003"},
+  {"adm4":"16.72.02.1004","desa":"Kelurahan Nendayung","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.02.1004"},
+  {"adm4":"16.72.02.1005","desa":"Kelurahan Gunung Dempo","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.02.1005"},
+  {"adm4":"16.72.02.1018","desa":"Kelurahan Tebat Giri Indah","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.02.1018"},
+  {"adm4":"16.72.02.1019","desa":"Kelurahan Tumbak Ulas","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.02.1019"},
+  {"adm4":"16.72.02.1020","desa":"Kelurahan Ulu Rurah","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.02.1020"},
+  {"adm4":"16.72.02.1021","desa":"Kelurahan Tanjung Agung","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.02.1021"},
+  {"adm4":"16.72.02.1022","desa":"Kelurahan Basemah Sersan","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.02.1022"},
+  {"adm4":"16.72.03.1006","desa":"Kelurahan Jangkar Mas","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.03.1006"},
+  {"adm4":"16.72.03.1012","desa":"Kelurahan Bumi Agung","url":"https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=16.72.03.1012"}
+
+]

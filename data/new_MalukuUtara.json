@@ -1,0 +1,100 @@
+[ {
+  "adm4": "82.01.01.2001",
+  "desa": "Negeri Gufasa",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2001"
+},
+{
+  "adm4": "82.01.01.2002",
+  "desa": "Negeri Guaimaadu",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2002"
+},
+{
+  "adm4": "82.01.01.2003",
+  "desa": "Negeri Jalan Baru",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2003"
+},
+{
+  "adm4": "82.01.01.2004",
+  "desa": "Negeri Gam Lamo",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2004"
+},
+{
+  "adm4": "82.01.01.2005",
+  "desa": "Negeri Soakonora",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2005"
+},
+{
+  "adm4": "82.01.01.2006",
+  "desa": "Negeri Galala",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2006"
+},
+{
+  "adm4": "82.01.01.2007",
+  "desa": "Negeri Bobanehena",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2007"
+},
+{
+  "adm4": "82.01.01.2008",
+  "desa": "Negeri Payo",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2008"
+},
+{
+  "adm4": "82.01.01.2009",
+  "desa": "Negeri Bobo",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2009"
+},
+{
+  "adm4": "82.01.01.2010",
+  "desa": "Negeri Saria",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2010"
+},
+{
+  "adm4": "82.01.01.2011",
+  "desa": "Negeri Idam Dehe",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2011"
+},
+{
+  "adm4": "82.01.01.2012",
+  "desa": "Negeri Idamdehe Gamsungi",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2012"
+},
+{
+  "adm4": "82.01.01.2013",
+  "desa": "Negeri Marmabati",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2013"
+},
+{
+  "adm4": "82.01.01.2014",
+  "desa": "Negeri Gamtala",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2014"
+},
+{
+  "adm4": "82.01.01.2015",
+  "desa": "Negeri Lolory",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2015"
+},
+{
+  "adm4": "82.01.01.2016",
+  "desa": "Negeri Toboso",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2016"
+},
+{
+  "adm4": "82.01.01.2017",
+  "desa": "Negeri Huku-Huku Kie",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2017"
+},
+{
+  "adm4": "82.01.01.2018",
+  "desa": "Negeri Acango",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2018"
+},
+{
+  "adm4": "82.01.01.2019",
+  "desa": "Negeri Tedeng",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2019"
+},
+{
+  "adm4": "82.01.01.2020",
+  "desa": "Negeri Akediri",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=82.01.01.2020"
+}]

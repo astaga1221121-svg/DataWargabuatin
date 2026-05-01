@@ -1,0 +1,167 @@
+[{
+    "adm4": "32.01.01.1001",
+    "desa": "Kelurahan Pondok Rajeg",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.01.1001"
+  },
+  {
+    "adm4": "32.01.01.1002",
+    "desa": "Kelurahan Karadenan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.01.1002"
+  },
+  {
+    "adm4": "32.01.01.1003",
+    "desa": "Kelurahan Harapanjaya",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.01.1003"
+  },
+  {
+    "adm4": "32.01.01.1004",
+    "desa": "Kelurahan Nanggewer",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.01.1004"
+  },
+  {
+    "adm4": "32.01.01.1005",
+    "desa": "Kelurahan Nanggewer Mekar",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.01.1005"
+  },
+  {
+    "adm4": "32.01.01.1006",
+    "desa": "Kelurahan Cibinong",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.01.1006"
+  },
+  {
+    "adm4": "32.01.01.1007",
+    "desa": "Kelurahan Pakansari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.01.1007"
+  },
+  {
+    "adm4": "32.01.01.1008",
+    "desa": "Kelurahan Tengah",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.01.1008"
+  },
+  {
+    "adm4": "32.01.01.1009",
+    "desa": "Kelurahan Sukahati",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.01.1009"
+  },
+  {
+    "adm4": "32.01.01.1010",
+    "desa": "Kelurahan Ciriung",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.01.1010"
+  },
+  {
+    "adm4": "32.01.01.1011",
+    "desa": "Kelurahan Cirimekar",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.01.1011"
+  },
+  {
+    "adm4": "32.01.01.1012",
+    "desa": "Kelurahan Pabuaran",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.01.1012"
+  },
+  {
+    "adm4": "32.01.01.1013",
+    "desa": "Kelurahan Pabuaran Mekar",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.01.1013"
+  },
+{
+    "adm4": "32.01.02.2001",
+    "desa": "Desa Wanaherang",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2001"
+  },
+  {
+    "adm4": "32.01.02.2002",
+    "desa": "Desa Bojong Kulur",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2002"
+  },
+  {
+    "adm4": "32.01.02.2003",
+    "desa": "Desa Ciangsana",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2003"
+  },
+  {
+    "adm4": "32.01.02.2004",
+    "desa": "Desa Gunung Putri",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2004"
+  },
+  {
+    "adm4": "32.01.02.2005",
+    "desa": "Desa Bojong Nangka",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2005"
+  },
+  {
+    "adm4": "32.01.02.2006",
+    "desa": "Desa Tlajung Udik",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2006"
+  },
+  {
+    "adm4": "32.01.02.2007",
+    "desa": "Desa Cicadas",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2007"
+  },
+  {
+    "adm4": "32.01.02.2008",
+    "desa": "Desa Cikeas Udik",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2008"
+  },
+  {
+    "adm4": "32.01.02.2009",
+    "desa": "Desa Nagrak",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2009"
+  },
+  {
+    "adm4": "32.01.02.2010",
+    "desa": "Desa Karanggan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2010"
+  },
+{
+    "adm4": "32.01.02.2001",
+    "desa": "Desa Wanaherang",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2001"
+  },
+  {
+    "adm4": "32.01.02.2002",
+    "desa": "Desa Bojong Kulur",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2002"
+  },
+  {
+    "adm4": "32.01.02.2003",
+    "desa": "Desa Ciangsana",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2003"
+  },
+  {
+    "adm4": "32.01.02.2004",
+    "desa": "Desa Gunung Putri",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2004"
+  },
+  {
+    "adm4": "32.01.02.2005",
+    "desa": "Desa Bojong Nangka",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2005"
+  },
+  {
+    "adm4": "32.01.02.2006",
+    "desa": "Desa Tlajung Udik",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2006"
+  },
+  {
+    "adm4": "32.01.02.2007",
+    "desa": "Desa Cicadas",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2007"
+  },
+  {
+    "adm4": "32.01.02.2008",
+    "desa": "Desa Cikeas Udik",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2008"
+  },
+  {
+    "adm4": "32.01.02.2009",
+    "desa": "Desa Nagrak",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2009"
+  },
+  {
+    "adm4": "32.01.02.2010",
+    "desa": "Desa Karanggan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=32.01.02.2010"
+  }
+
+]

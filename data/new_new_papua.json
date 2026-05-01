@@ -1,0 +1,95 @@
+[{
+  "adm4": "91.01.01.2001",
+  "desa": "Kampung Nasem",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.2001"
+},
+{
+  "adm4": "91.01.01.1002",
+  "desa": "Kelurahan Samkai",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.1002"
+},
+{
+  "adm4": "91.01.01.1003",
+  "desa": "Kelurahan Karang Indah",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.1003"
+},
+{
+  "adm4": "91.01.01.1004",
+  "desa": "Kelurahan Mandala",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.1004"
+},
+{
+  "adm4": "91.01.01.1005",
+  "desa": "Kelurahan Maro",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.1005"
+},
+{
+  "adm4": "91.01.01.1006",
+  "desa": "Kelurahan Kelapa Lima",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.1006"
+},
+{
+  "adm4": "91.01.01.1007",
+  "desa": "Kelurahan Rimba Jaya",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.1007"
+},
+{
+  "adm4": "91.01.01.2013",
+  "desa": "Kampung Wasur",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.2013"
+},
+{
+  "adm4": "91.01.01.1014",
+  "desa": "Kelurahan Bambu Pemali",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.1014"
+},
+{
+  "adm4": "91.01.01.1015",
+  "desa": "Kelurahan Seringgu Jaya",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.1015"
+},
+{
+  "adm4": "91.01.01.1016",
+  "desa": "Kelurahan Kamundu",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.1016"
+},
+{
+  "adm4": "91.01.01.1017",
+  "desa": "Kelurahan Kamahedoga",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.1017"
+},
+{
+  "adm4": "91.01.01.1018",
+  "desa": "Kelurahan Muli",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.1018"
+},
+{
+  "adm4": "91.01.01.2019",
+  "desa": "Kampung Bokem",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.2019"
+},
+{
+  "adm4": "91.01.01.2020",
+  "desa": "Kampung Buti",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.2020"
+},
+{
+  "adm4": "91.01.01.2021",
+  "desa": "Kampung Nggolar",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.01.2021"
+},
+{
+  "adm4": "91.01.02.2001",
+  "desa": "Kampung Muting",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.02.2001"
+},
+{
+  "adm4": "91.01.02.2003",
+  "desa": "Kampung Boha",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.02.2003"
+},
+{
+  "adm4": "91.01.02.2005",
+  "desa": "Kampung Wan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=91.01.02.2005"
+}]
