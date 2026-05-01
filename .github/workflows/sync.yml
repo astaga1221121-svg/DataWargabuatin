@@ -2,8 +2,8 @@ name: BMKG Realtime Sync
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Berjalan otomatis setiap 3 jam
-  workflow_dispatch: # Memungkinkan dijalankan manual
+    - cron: '0 */3 * * *' # Jalan tiap 3 jam
+  workflow_dispatch:
 
 jobs:
   generate-matrix:
@@ -11,24 +11,28 @@ jobs:
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
-      - uses: actions/checkout@v4 # Update ke v4 (Node 20+)
+      - uses: actions/checkout@v4
       - id: set-matrix
         run: |
-          # Mencari semua file .json di folder data
-          # Kita pastikan hanya mengambil file json wilayah, bukan file script atau lainnya
-          FILES=$(ls data/*.json | xargs -n 1 basename | grep -v "links_api.json" | grep -v "hewan_cocok.json" | grep -v "sayuran_cocok.json" | jq -R -s -c 'split("\n")[:-1]')
-          echo "matrix=$FILES" >> $GITHUB_OUTPUT
+          # Mencari semua file .json di folder data/ kecuali file sistem/pendukung
+          # Gunakan find agar lebih akurat di environment Linux
+          FILES=$(find data -maxdepth 1 -name "*.json" ! -name "links_api.json" ! -name "hewan_cocok.json" ! -name "sayuran_cocok.json" -exec basename {} \;)
+          
+          # Ubah ke format JSON array untuk matrix
+          JSON_FILES=$(echo "$FILES" | jq -R -s -c 'split("\n") | map(select(length > 0))')
+          
+          echo "Daftar file ditemukan: $JSON_FILES"
+          echo "matrix=$JSON_FILES" >> $GITHUB_OUTPUT
 
   sync:
     needs: generate-matrix
     runs-on: ubuntu-latest
-    # Jika matrix kosong, job ini akan dilewati dengan aman
     if: needs.generate-matrix.outputs.matrix != '[]' && needs.generate-matrix.outputs.matrix != ''
     strategy:
       fail-fast: false
       matrix:
         file: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
-      max-parallel: 5 # Dikurangi agar tidak terkena rate limit API BMKG (60 req/min)
+      max-parallel: 8 # Ditingkatkan sedikit, tetap aman dari rate limit 60/min
     steps:
       - uses: actions/checkout@v4
       
@@ -50,5 +54,7 @@ jobs:
           git config user.name "GitHub Action Bot"
           git config user.email "actions@github.com"
           git add cache/ sampahku/
-          git commit -m "Auto-update weather cache: ${{ matrix.file }}" || exit 0
+          # Menggunakan rebase agar tidak konflik saat push dari banyak job paralel
+          git commit -m "Auto-update weather: ${{ matrix.file }}" || exit 0
+          git pull --rebase origin main
           git push origin main
