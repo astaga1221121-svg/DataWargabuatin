@@ -1,0 +1,42 @@
+name: BMKG Total Sync
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Setiap 3 jam
+  workflow_dispatch:
+
+jobs:
+  get-files:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v3
+      - id: set-matrix
+        run: |
+          FILES=$(ls DataWargabuatin/data/*.json | xargs -n 1 basename | jq -R -s -c 'split("\n")[:-1]')
+          echo "matrix=$FILES" >> $GITHUB_OUTPUT
+
+  sync:
+    needs: get-files
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        file: ${{ fromJson(needs.get-files.outputs.matrix) }}
+      max-parallel: 20 # Menjalankan 20 file sekaligus
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with: { python-version: '3.9' }
+      - run: pip install requests supabase
+      - name: Run Sync
+        env:
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python sync_bmkg_final.py ${{ matrix.file }}
+      - name: Commit Changes
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add DataWargabuatin/cache/ DataWargabuatin/sampahku/
+          git commit -m "Update cache for ${{ matrix.file }}" || exit 0
+          git push origin main
