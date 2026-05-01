@@ -3,7 +3,7 @@ name: BMKG Realtime Sync
 on:
   schedule:
     - cron: '0 */3 * * *' # Berjalan otomatis setiap 3 jam
-  workflow_dispatch: # Memungkinkan dijalankan manual dari tab "Actions" di GitHub
+  workflow_dispatch: # Memungkinkan dijalankan manual
 
 jobs:
   generate-matrix:
@@ -11,28 +11,31 @@ jobs:
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Update ke v4 (Node 20+)
       - id: set-matrix
         run: |
-          # Mencari semua file .json di folder data untuk diproses secara paralel
-          FILES=$(ls DataWargabuatin/data/*.json | xargs -n 1 basename | jq -R -s -c 'split("\n")[:-1]')
+          # Mencari semua file .json di folder data
+          # Kita pastikan hanya mengambil file json wilayah, bukan file script atau lainnya
+          FILES=$(ls data/*.json | xargs -n 1 basename | grep -v "links_api.json" | grep -v "hewan_cocok.json" | grep -v "sayuran_cocok.json" | jq -R -s -c 'split("\n")[:-1]')
           echo "matrix=$FILES" >> $GITHUB_OUTPUT
 
   sync:
     needs: generate-matrix
     runs-on: ubuntu-latest
+    # Jika matrix kosong, job ini akan dilewati dengan aman
+    if: needs.generate-matrix.outputs.matrix != '[]' && needs.generate-matrix.outputs.matrix != ''
     strategy:
       fail-fast: false
       matrix:
         file: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
-      max-parallel: 15 # Menjalankan 15 provinsi sekaligus agar cepat tapi aman dari rate limit
+      max-parallel: 5 # Dikurangi agar tidak terkena rate limit API BMKG (60 req/min)
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.10'
           
       - name: Install Dependencies
         run: pip install requests supabase
@@ -40,12 +43,12 @@ jobs:
       - name: Run Sync Script
         env:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-        run: python sync_bmkg_final.py "DataWargabuatin/data/${{ matrix.file }}"
+        run: python sync_bmkg_final.py "${{ matrix.file }}"
         
-      - name: Commit & Push Changes (Cache & Trash)
+      - name: Commit & Push Changes
         run: |
           git config user.name "GitHub Action Bot"
           git config user.email "actions@github.com"
-          git add DataWargabuatin/cache/ DataWargabuatin/sampahku/
+          git add cache/ sampahku/
           git commit -m "Auto-update weather cache: ${{ matrix.file }}" || exit 0
           git push origin main
