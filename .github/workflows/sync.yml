@@ -2,16 +2,11 @@ name: BMKG Realtime Sync
 
 on:
   schedule:
-<<<<<<< HEAD
     - cron: '0 */3 * * *' # Berjalan otomatis setiap 3 jam
   workflow_dispatch: # Memungkinkan dijalankan manual dari tab "Actions"
 
 permissions:
   contents: write # Memberikan izin untuk push commit kembali ke repo
-=======
-    - cron: '0 */3 * * *' # Jalan tiap 3 jam
-  workflow_dispatch:
->>>>>>> 288984b35a995b1f8012bd3d6f80254a8e55f894
 
 jobs:
   generate-matrix:
@@ -22,22 +17,13 @@ jobs:
       - uses: actions/checkout@v4
       - id: set-matrix
         run: |
-<<<<<<< HEAD
-          # Mencari semua file .json di folder data
-          # Kita pastikan hanya mengambil file json wilayah, bukan file script atau lainnya
-          # Gunakan find agar lebih tangguh
-          FILES=$(find data -maxdepth 1 -name "*.json" ! -name "links_api.json" ! -name "hewan_cocok.json" ! -name "sayuran_cocok.json" -exec basename {} \;)
-          JSON_FILES=$(echo "$FILES" | jq -R -s -c 'split("\n") | map(select(length > 0))')
-=======
           # Mencari semua file .json di folder data/ kecuali file sistem/pendukung
-          # Gunakan find agar lebih akurat di environment Linux
           FILES=$(find data -maxdepth 1 -name "*.json" ! -name "links_api.json" ! -name "hewan_cocok.json" ! -name "sayuran_cocok.json" -exec basename {} \;)
           
           # Ubah ke format JSON array untuk matrix
           JSON_FILES=$(echo "$FILES" | jq -R -s -c 'split("\n") | map(select(length > 0))')
           
           echo "Daftar file ditemukan: $JSON_FILES"
->>>>>>> 288984b35a995b1f8012bd3d6f80254a8e55f894
           echo "matrix=$JSON_FILES" >> $GITHUB_OUTPUT
 
   sync:
@@ -48,11 +34,7 @@ jobs:
       fail-fast: false
       matrix:
         file: ${{ fromJson(needs.generate-matrix.outputs.matrix) }}
-<<<<<<< HEAD
-      max-parallel: 5 # Membatasi agar tidak terkena rate limit BMKG (60 req/min)
-=======
-      max-parallel: 8 # Ditingkatkan sedikit, tetap aman dari rate limit 60/min
->>>>>>> 288984b35a995b1f8012bd3d6f80254a8e55f894
+      max-parallel: 8 # Tetap aman dari rate limit 60/min
     steps:
       - uses: actions/checkout@v4
       
@@ -76,19 +58,11 @@ jobs:
           
           # Tambahkan perubahan di folder cache dan sampahku
           git add cache/ sampahku/
-<<<<<<< HEAD
           
-          # Commit jika ada perubahan
-          if git commit -m "Auto-update weather cache: ${{ matrix.file }}"; then
-            # Gunakan rebase saat pull agar tidak terjadi merge conflict saat push paralel
+          # Commit jika ada perubahan, lalu pull rebase untuk menghindari konflik paralel
+          if git commit -m "Auto-update weather: ${{ matrix.file }}"; then
             git pull --rebase origin main
             git push origin main
           else
             echo "No changes to commit"
           fi
-=======
-          # Menggunakan rebase agar tidak konflik saat push dari banyak job paralel
-          git commit -m "Auto-update weather: ${{ matrix.file }}" || exit 0
-          git pull --rebase origin main
-          git push origin main
->>>>>>> 288984b35a995b1f8012bd3d6f80254a8e55f894
