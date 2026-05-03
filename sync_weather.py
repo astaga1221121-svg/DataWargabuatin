@@ -12,23 +12,28 @@ SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_KEY")
 
 if not SUPABASE_URL or not SUPABASE_KEY:
-    print("!!! ERROR: SUPABASE_URL atau SUPABASE_KEY tidak ditemukan di Environment Variables !!!")
+    print("!!! ERROR: SUPABASE_URL atau SUPABASE_KEY tidak ditemukan !!!")
 
 DATA_DIR = "data"
 CACHE_DIR = "cache"
 os.makedirs(CACHE_DIR, exist_ok=True)
 
+# Session dengan retry strategy untuk keandalan tinggi
 session = requests.Session()
+adapter = requests.adapters.HTTPAdapter(max_retries=3)
+session.mount("https://", adapter)
+session.mount("http://", adapter)
 
 def save_to_supabase(data, adm4, village_info):
-    if not SUPABASE_URL or not SUPABASE_KEY:
-        return
-
+    """
+    Menyimpan data ke Supabase dengan validasi ketat.
+    Harus berhasil masuk kedua tabel baru boleh lanjut.
+    """
     headers = {
         "apikey": SUPABASE_KEY,
         "Authorization": f"Bearer {SUPABASE_KEY}",
         "Content-Type": "application/json",
-        "Prefer": "resolution=merge-duplicates" # Ini untuk UPSERT
+        "Prefer": "resolution=merge-duplicates"
     }
 
     try:
@@ -38,7 +43,7 @@ def save_to_supabase(data, adm4, village_info):
         inner_loc = data_block.get("lokasi", {})
         loc = {**inner_loc, **root_loc}
 
-        # 2. UPSERT Master Lokasi
+        # 2. STEP 1: UPSERT Master Lokasi
         lokasi_payload = {
             "adm4": str(adm4),
             "desa": loc.get("desa", village_info.get("desa")),
@@ -51,10 +56,12 @@ def save_to_supabase(data, adm4, village_info):
         }
 
         res_lokasi = session.post(f"{SUPABASE_URL}/rest/v1/lokasi", headers=headers, json=lokasi_payload)
-        if res_lokasi.status_code not in [200, 201, 204]:
-            print(f"   [LOKASI ERROR] {adm4}: {res_lokasi.text}")
 
-        # 3. Parsing Cuaca
+        if res_lokasi.status_code not in [200, 201, 204]:
+            print(f"   [FATAL LOKASI] Gagal simpan master {adm4}: {res_lokasi.text}")
+            return False
+
+        # 3. Parsing Cuaca & Statistik
         cuaca_blocks = data_block.get("cuaca", [])
         cuaca_now = cuaca_blocks[0][0] if cuaca_blocks and cuaca_blocks[0] else {}
         all_points = [item for sublist in cuaca_blocks for item in sublist] if cuaca_blocks else []
@@ -63,7 +70,7 @@ def save_to_supabase(data, adm4, village_info):
         avg_t = sum(temps) / len(temps) if temps else None
         avg_h = sum(hus) / len(hus) if hus else None
 
-        # 4. UPSERT Cuaca Realtime
+        # 4. STEP 2: UPSERT Cuaca Realtime
         cuaca_payload = {
             "adm4": str(adm4),
             "adm1": loc.get("adm1"),
@@ -89,20 +96,28 @@ def save_to_supabase(data, adm4, village_info):
         }
 
         res_cuaca = session.post(f"{SUPABASE_URL}/rest/v1/cuaca_realtime", headers=headers, json=cuaca_payload)
+
         if res_cuaca.status_code not in [200, 201, 204]:
-            print(f"   [CUACA ERROR] {adm4}: {res_cuaca.text}")
-        else:
-            print(f"   [SUCCESS] Data {lokasi_payload['desa']} tersimpan ke Supabase.")
+            print(f"   [FATAL CUACA] Gagal simpan data {adm4}: {res_cuaca.text}")
+            return False
+
+        print(f"   [BERHASIL] {lokasi_payload['desa']} terverifikasi masuk database.")
+        return True
 
     except Exception as e:
-        print(f"   [EXCEPTION] {adm4}: {e}")
+        print(f"   [ERROR SISTEM] {adm4}: {e}")
+        return False
 
 def process():
     if not os.path.exists(DATA_DIR): return
-    json_files = sorted([f for f in os.listdir(DATA_DIR) if f.endswith('.json') and f not in ['links_api.json', 'hewan_cocok.json', 'sayuran_cocok.json', 'new_kecamatanss.json']])
+
+    # Ambil semua file JSON wilayah
+    all_files = [f for f in os.listdir(DATA_DIR) if f.endswith('.json')]
+    excluded = ['links_api.json', 'hewan_cocok.json', 'sayuran_cocok.json', 'new_kecamatanss.json', 'fix_json.py']
+    json_files = sorted([f for f in all_files if f not in excluded])
 
     for json_file in json_files:
-        print(f"\nProcessing File: {json_file}")
+        print(f"\n>>> Memproses Wilayah: {json_file}")
         try:
             with open(os.path.join(DATA_DIR, json_file), 'r', encoding='utf-8') as f:
                 villages = json.load(f)
@@ -110,33 +125,44 @@ def process():
 
         for v in villages:
             adm4 = v.get('adm4')
-            if not adm4: continue
+            url = v.get('url')
+            if not adm4 or not url: continue
 
-            cache_path = os.path.join(CACHE_DIR, f"{adm4}.json")
-
-            # Fetch BMKG
+            # 1. Ambil data dari BMKG
             try:
-                res = session.get(v['url'], timeout=10)
+                print(f" - Mengambil data: {v.get('desa', adm4)}...")
+                res = session.get(url, timeout=15)
                 if res.status_code != 200:
-                    time.sleep(1.05)
+                    print(f"   [SKIP] BMKG Error {res.status_code}")
+                    time.sleep(2)
                     continue
                 new_data = res.json()
-            except:
-                time.sleep(1.05)
+            except Exception as e:
+                print(f"   [SKIP] Gagal koneksi BMKG: {e}")
+                time.sleep(2)
                 continue
 
-            # Cek Cache (Jika data sama, lewati kirim ke Supabase untuk hemat resource)
-            if os.path.exists(cache_path):
-                with open(cache_path, 'r') as f:
-                    if json.load(f) == new_data:
-                        print(f" - {v.get('desa')}: No changes (Skipped Supabase)")
-                        time.sleep(1.05)
-                        continue
+            # 2. Simpan ke Supabase dengan sistem VERIFIKASI
+            # Jika gagal masuk database, dia akan mengulang (retry) atau berhenti agar tidak skip
+            success = save_to_supabase(new_data, adm4, v)
 
-            # Save Cache & Push
-            with open(cache_path, 'w') as f: json.dump(new_data, f)
-            save_to_supabase(new_data, adm4, v)
-            time.sleep(1.05) # Rate limit BMKG
+            if not success:
+                print(f"   [WARNING] Retrying in 5 seconds...")
+                time.sleep(5)
+                success = save_to_supabase(new_data, adm4, v)
+
+            if success:
+                # Update Cache lokal hanya jika database sudah OK
+                cache_path = os.path.join(CACHE_DIR, f"{adm4}.json")
+                with open(cache_path, 'w') as f:
+                    json.dump(new_data, f)
+            else:
+                print(f"   [BERHENTI] Lokasi {adm4} gagal. Cek koneksi/tabel Supabase!")
+                # Kita tidak pakai 'break' agar tetap mencoba lokasi lain,
+                # tapi data cache tidak diupdate sehingga akan dicoba lagi di run berikutnya.
+
+            # Jeda wajib 1.05 detik sesuai aturan BMKG (60 req/min)
+            time.sleep(1.05)
 
 if __name__ == "__main__":
     process()
