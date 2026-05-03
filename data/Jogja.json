@@ -1,0 +1,873 @@
+[
+  {
+    "adm4": "34.01.01.2001",
+    "desa": "Kalurahan Jangkaran",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2001"
+  },
+  {
+    "adm4": "34.01.01.2002",
+    "desa": "Kalurahan Sindutan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2002"
+  },
+  {
+    "adm4": "34.01.01.2003",
+    "desa": "Kalurahan Palihan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2003"
+  },
+  {
+    "adm4": "34.01.01.2004",
+    "desa": "Kalurahan Glagah",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2004"
+  },
+  {
+    "adm4": "34.01.01.2005",
+    "desa": "Kalurahan Kalidengen",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2005"
+  },
+  {
+    "adm4": "34.01.01.2006",
+    "desa": "Kalurahan Plumbon",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2006"
+  },
+  {
+    "adm4": "34.01.01.2007",
+    "desa": "Kalurahan Kedundang",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2007"
+  },
+  {
+    "adm4": "34.01.01.2008",
+    "desa": "Kalurahan Demen",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2008"
+  },
+  {
+    "adm4": "34.01.01.2009",
+    "desa": "Kalurahan Kulur",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2009"
+  },
+  {
+    "adm4": "34.01.01.2010",
+    "desa": "Kalurahan Kaligintung",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2010"
+  },
+  {
+    "adm4": "34.01.01.2011",
+    "desa": "Kalurahan Temon Wetan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2011"
+  },
+  {
+    "adm4": "34.01.01.2012",
+    "desa": "Kalurahan Temon Kulon",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2012"
+  },
+  {
+    "adm4": "34.01.01.2013",
+    "desa": "Kalurahan Kebonrejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2013"
+  },
+  {
+    "adm4": "34.01.01.2014",
+    "desa": "Kalurahan Janten",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2014"
+  },
+  {
+    "adm4": "34.01.01.2015",
+    "desa": "Kalurahan Karangwuluh",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.01.2015"
+  }
+]
+[
+  {
+    "adm4": "34.01.02.2001",
+    "desa": "Kalurahan Karangwuni",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.02.2001"
+  },
+  {
+    "adm4": "34.01.02.2002",
+    "desa": "Kalurahan Sogan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.02.2002"
+  },
+  {
+    "adm4": "34.01.02.2003",
+    "desa": "Kalurahan Kulwaru",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.02.2003"
+  },
+  {
+    "adm4": "34.01.02.2004",
+    "desa": "Kalurahan Ngestiharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.02.2004"
+  },
+  {
+    "adm4": "34.01.02.2005",
+    "desa": "Kalurahan Bendungan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.02.2005"
+  },
+  {
+    "adm4": "34.01.02.2006",
+    "desa": "Kalurahan Triharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.02.2006"
+  },
+  {
+    "adm4": "34.01.02.2007",
+    "desa": "Kalurahan Giripeni",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.02.2007"
+  },
+  {
+    "adm4": "34.01.02.1008",
+    "desa": "Kelurahan Wates",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.02.1008"
+  }
+]
+[
+  {
+    "adm4": "34.01.03.2001",
+    "desa": "Kalurahan Garongan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.03.2001"
+  },
+  {
+    "adm4": "34.01.03.2002",
+    "desa": "Kalurahan Pleret",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.03.2002"
+  },
+  {
+    "adm4": "34.01.03.2003",
+    "desa": "Kalurahan Bugel",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.03.2003"
+  },
+  {
+    "adm4": "34.01.03.2004",
+    "desa": "Kalurahan Kanoman",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.03.2004"
+  },
+  {
+    "adm4": "34.01.03.2005",
+    "desa": "Kalurahan Depok",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.03.2005"
+  },
+  {
+    "adm4": "34.01.03.2006",
+    "desa": "Kalurahan Bojong",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.03.2006"
+  },
+  {
+    "adm4": "34.01.03.2007",
+    "desa": "Kalurahan Tayuban",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.03.2007"
+  },
+  {
+    "adm4": "34.01.03.2008",
+    "desa": "Kalurahan Gotakan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.03.2008"
+  },
+  {
+    "adm4": "34.01.03.2009",
+    "desa": "Kalurahan Panjatan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.03.2009"
+  },
+  {
+    "adm4": "34.01.03.2010",
+    "desa": "Kalurahan Cerme",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.03.2010"
+  },
+  {
+    "adm4": "34.01.03.2011",
+    "desa": "Kalurahan Krembangan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.03.2011"
+  }
+]
+[
+  {
+    "adm4": "34.01.04.2001",
+    "desa": "Kalurahan Banaran",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.04.2001"
+  },
+  {
+    "adm4": "34.01.04.2002",
+    "desa": "Kalurahan Kranggan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.04.2002"
+  },
+  {
+    "adm4": "34.01.04.2003",
+    "desa": "Kalurahan Nomporejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.04.2003"
+  },
+  {
+    "adm4": "34.01.04.2004",
+    "desa": "Kalurahan Karangsewu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.04.2004"
+  },
+  {
+    "adm4": "34.01.04.2005",
+    "desa": "Kalurahan Tirtorahayu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.04.2005"
+  },
+  {
+    "adm4": "34.01.04.2006",
+    "desa": "Kalurahan Pandowan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.04.2006"
+  },
+  {
+    "adm4": "34.01.04.2007",
+    "desa": "Kalurahan Brosot",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.04.2007"
+  }
+]
+[
+  {
+    "adm4": "34.01.05.2001",
+    "desa": "Kalurahan Wahyuharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.05.2001"
+  },
+  {
+    "adm4": "34.01.05.2002",
+    "desa": "Kalurahan Bumirejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.05.2002"
+  },
+  {
+    "adm4": "34.01.05.2003",
+    "desa": "Kalurahan Jatirejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.05.2003"
+  },
+  {
+    "adm4": "34.01.05.2004",
+    "desa": "Kalurahan Sidorejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.05.2004"
+  },
+  {
+    "adm4": "34.01.05.2005",
+    "desa": "Kalurahan Gulurejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.05.2005"
+  },
+  {
+    "adm4": "34.01.05.2006",
+    "desa": "Kalurahan Ngentakrejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.05.2006"
+  }
+]
+[
+  {
+    "adm4": "34.01.06.2001",
+    "desa": "Kalurahan Demangrejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.06.2001"
+  },
+  {
+    "adm4": "34.01.06.2002",
+    "desa": "Kalurahan Srikayangan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.06.2002"
+  },
+  {
+    "adm4": "34.01.06.2003",
+    "desa": "Kalurahan Tuksono",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.06.2003"
+  },
+  {
+    "adm4": "34.01.06.2004",
+    "desa": "Kalurahan Salamrejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.06.2004"
+  },
+  {
+    "adm4": "34.01.06.2005",
+    "desa": "Kalurahan Sukoreno",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.06.2005"
+  },
+  {
+    "adm4": "34.01.06.2006",
+    "desa": "Kalurahan Kaliagung",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.06.2006"
+  },
+  {
+    "adm4": "34.01.06.2007",
+    "desa": "Kalurahan Sentolo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.06.2007"
+  },
+  {
+    "adm4": "34.01.06.2008",
+    "desa": "Kalurahan Banguncipto",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.06.2008"
+  }
+]
+[
+  {
+    "adm4": "34.01.07.2001",
+    "desa": "Kalurahan Tawangsari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.07.2001"
+  },
+  {
+    "adm4": "34.01.07.2002",
+    "desa": "Kalurahan Karangsari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.07.2002"
+  },
+  {
+    "adm4": "34.01.07.2003",
+    "desa": "Kalurahan Kedungsari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.07.2003"
+  },
+  {
+    "adm4": "34.01.07.2004",
+    "desa": "Kalurahan Margosari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.07.2004"
+  },
+  {
+    "adm4": "34.01.07.2005",
+    "desa": "Kalurahan Pengasih",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.07.2005"
+  },
+  {
+    "adm4": "34.01.07.2006",
+    "desa": "Kalurahan Sendangsari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.07.2006"
+  },
+  {
+    "adm4": "34.01.07.2007",
+    "desa": "Kalurahan Sidomulyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.07.2007"
+  }
+]
+[
+  {
+    "adm4": "34.01.08.2001",
+    "desa": "Kalurahan Hargomulyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.08.2001"
+  },
+  {
+    "adm4": "34.01.08.2002",
+    "desa": "Kalurahan Hargorejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.08.2002"
+  },
+  {
+    "adm4": "34.01.08.2003",
+    "desa": "Kalurahan Hargowilis",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.08.2003"
+  },
+  {
+    "adm4": "34.01.08.2004",
+    "desa": "Kalurahan Kalirejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.08.2004"
+  },
+  {
+    "adm4": "34.01.08.2005",
+    "desa": "Kalurahan Hargotirto",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.08.2005"
+  }
+]
+[
+  {
+    "adm4": "34.01.09.2001",
+    "desa": "Kalurahan Jatimulyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.09.2001"
+  },
+  {
+    "adm4": "34.01.09.2002",
+    "desa": "Kalurahan Giripurwo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.09.2002"
+  },
+  {
+    "adm4": "34.01.09.2003",
+    "desa": "Kalurahan Pendoworejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.09.2003"
+  },
+  {
+    "adm4": "34.01.09.2004",
+    "desa": "Kalurahan Purwosari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.09.2004"
+  }
+]
+[
+  {
+    "adm4": "34.01.10.2001",
+    "desa": "Kalurahan Banyuroto",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.10.2001"
+  },
+  {
+    "adm4": "34.01.10.2002",
+    "desa": "Kalurahan Donomulyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.10.2002"
+  },
+  {
+    "adm4": "34.01.10.2003",
+    "desa": "Kalurahan Wijimulyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.10.2003"
+  },
+  {
+    "adm4": "34.01.10.2004",
+    "desa": "Kalurahan Tanjungharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.10.2004"
+  },
+  {
+    "adm4": "34.01.10.2005",
+    "desa": "Kalurahan Jatisarono",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.10.2005"
+  },
+  {
+    "adm4": "34.01.10.2006",
+    "desa": "Kalurahan Kembang",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.10.2006"
+  }
+]
+[
+  {
+    "adm4": "34.01.11.2001",
+    "desa": "Kalurahan Kebonharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.11.2001"
+  },
+  {
+    "adm4": "34.01.11.2002",
+    "desa": "Kalurahan Banjarsari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.11.2002"
+  },
+  {
+    "adm4": "34.01.11.2003",
+    "desa": "Kalurahan Purwoharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.11.2003"
+  },
+  {
+    "adm4": "34.01.11.2004",
+    "desa": "Kalurahan Sidoharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.11.2004"
+  },
+  {
+    "adm4": "34.01.11.2005",
+    "desa": "Kalurahan Gerbosari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.11.2005"
+  },
+  {
+    "adm4": "34.01.11.2006",
+    "desa": "Kalurahan Ngargosari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.11.2006"
+  },
+  {
+    "adm4": "34.01.11.2007",
+    "desa": "Kalurahan Pagerharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.11.2007"
+  }
+]
+[
+  {
+    "adm4": "34.01.12.2001",
+    "desa": "Kalurahan Banjararum",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.12.2001"
+  },
+  {
+    "adm4": "34.01.12.2002",
+    "desa": "Kalurahan Banjarasri",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.12.2002"
+  },
+  {
+    "adm4": "34.01.12.2003",
+    "desa": "Kalurahan Banjarharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.12.2003"
+  },
+  {
+    "adm4": "34.01.12.2004",
+    "desa": "Kalurahan Banjaroyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.01.12.2004"
+  }
+]
+[
+  {
+    "adm4": "34.02.01.2001",
+    "desa": "Kalurahan Poncosari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.01.2001"
+  },
+  {
+    "adm4": "34.02.01.2002",
+    "desa": "Kalurahan Trimurti",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.01.2002"
+  }
+]
+[
+  {
+    "adm4": "34.02.02.2001",
+    "desa": "Kalurahan Gadingsari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.02.2001"
+  },
+  {
+    "adm4": "34.02.02.2002",
+    "desa": "Kalurahan Gadingharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.02.2002"
+  },
+  {
+    "adm4": "34.02.02.2003",
+    "desa": "Kalurahan Srigading",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.02.2003"
+  },
+  {
+    "adm4": "34.02.02.2004",
+    "desa": "Kalurahan Murtigading",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.02.2004"
+  }
+]
+[
+  {
+    "adm4": "34.02.03.2001",
+    "desa": "Kalurahan Tirtomulyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.03.2001"
+  },
+  {
+    "adm4": "34.02.03.2002",
+    "desa": "Kalurahan Parangtritis",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.03.2002"
+  },
+  {
+    "adm4": "34.02.03.2003",
+    "desa": "Kalurahan Donotirto",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.03.2003"
+  },
+  {
+    "adm4": "34.02.03.2004",
+    "desa": "Kalurahan Tirtosari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.03.2004"
+  },
+  {
+    "adm4": "34.02.03.2005",
+    "desa": "Kalurahan Tirtohargo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.03.2005"
+  }
+]
+[
+  {
+    "adm4": "34.02.04.2001",
+    "desa": "Kalurahan Seloharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.04.2001"
+  },
+  {
+    "adm4": "34.02.04.2002",
+    "desa": "Kalurahan Panjangrejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.04.2002"
+  },
+  {
+    "adm4": "34.02.04.2003",
+    "desa": "Kalurahan Srihardono",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.04.2003"
+  }
+]
+[
+  {
+    "adm4": "34.02.05.2001",
+    "desa": "Kalurahan Sidomulyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.05.2001"
+  },
+  {
+    "adm4": "34.02.05.2002",
+    "desa": "Kalurahan Mulyodadi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.05.2002"
+  },
+  {
+    "adm4": "34.02.05.2003",
+    "desa": "Kalurahan Sumbermulyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.05.2003"
+  }
+]
+[
+  {
+    "adm4": "34.02.06.2001",
+    "desa": "Kalurahan Catuharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.06.2001"
+  },
+  {
+    "adm4": "34.02.06.2002",
+    "desa": "Kalurahan Triharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.06.2002"
+  },
+  {
+    "adm4": "34.02.06.2003",
+    "desa": "Kalurahan Gilangharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.06.2003"
+  },
+  {
+    "adm4": "34.02.06.2004",
+    "desa": "Kalurahan Wijirejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.06.2004"
+  }
+]
+[
+  {
+    "adm4": "34.02.07.2001",
+    "desa": "Kalurahan Triwidadi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.07.2001"
+  },
+  {
+    "adm4": "34.02.07.2002",
+    "desa": "Kalurahan Sendangsari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.07.2002"
+  },
+  {
+    "adm4": "34.02.07.2003",
+    "desa": "Kalurahan Guwosari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.07.2003"
+  }
+]
+[
+  {
+    "adm4": "34.02.08.2001",
+    "desa": "Kalurahan Palbapang",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.08.2001"
+  },
+  {
+    "adm4": "34.02.08.2002",
+    "desa": "Kalurahan Ringinharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.08.2002"
+  },
+  {
+    "adm4": "34.02.08.2003",
+    "desa": "Kalurahan Bantul",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.08.2003"
+  },
+  {
+    "adm4": "34.02.08.2004",
+    "desa": "Kalurahan Trirenggo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.08.2004"
+  },
+  {
+    "adm4": "34.02.08.2005",
+    "desa": "Kalurahan Sabdodadi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.08.2005"
+  }
+]
+[
+  {
+    "adm4": "34.02.09.2001",
+    "desa": "Kalurahan Patalan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.09.2001"
+  },
+  {
+    "adm4": "34.02.09.2002",
+    "desa": "Kalurahan Canden",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.09.2002"
+  },
+  {
+    "adm4": "34.02.09.2003",
+    "desa": "Kalurahan Sumberagung",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.09.2003"
+  },
+  {
+    "adm4": "34.02.09.2004",
+    "desa": "Kalurahan Trimulyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.09.2004"
+  }
+]
+[
+  {
+    "adm4": "34.02.10.2001",
+    "desa": "Kalurahan Selopamioro",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.10.2001"
+  },
+  {
+    "adm4": "34.02.10.2002",
+    "desa": "Kalurahan Sriharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.10.2002"
+  },
+  {
+    "adm4": "34.02.10.2003",
+    "desa": "Kalurahan Wukirsari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.10.2003"
+  },
+  {
+    "adm4": "34.02.10.2004",
+    "desa": "Kalurahan Kebonagung",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.10.2004"
+  },
+  {
+    "adm4": "34.02.10.2005",
+    "desa": "Kalurahan Karangtengah",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.10.2005"
+  },
+  {
+    "adm4": "34.02.10.2006",
+    "desa": "Kalurahan Girirejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.10.2006"
+  },
+  {
+    "adm4": "34.02.10.2007",
+    "desa": "Kalurahan Karangtalun",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.10.2007"
+  },
+  {
+    "adm4": "34.02.10.2008",
+    "desa": "Kalurahan Imogiri",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.10.2008"
+  }
+]
+[
+  {
+    "adm4": "34.02.11.2001",
+    "desa": "Kalurahan Mangunan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.11.2001"
+  },
+  {
+    "adm4": "34.02.11.2002",
+    "desa": "Kalurahan Muntuk",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.11.2002"
+  },
+  {
+    "adm4": "34.02.11.2003",
+    "desa": "Kalurahan Dlingo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.11.2003"
+  },
+  {
+    "adm4": "34.02.11.2004",
+    "desa": "Kalurahan Temuwuh",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.11.2004"
+  },
+  {
+    "adm4": "34.02.11.2005",
+    "desa": "Kalurahan Terong",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.11.2005"
+  },
+  {
+    "adm4": "34.02.11.2006",
+    "desa": "Kalurahan Jatimulyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.11.2006"
+  }
+]
+[
+  {
+    "adm4": "34.02.12.2001",
+    "desa": "Kalurahan Baturetno",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.12.2001"
+  },
+  {
+    "adm4": "34.02.12.2002",
+    "desa": "Kalurahan Banguntapan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.12.2002"
+  },
+  {
+    "adm4": "34.02.12.2003",
+    "desa": "Kalurahan Jagalan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.12.2003"
+  },
+  {
+    "adm4": "34.02.12.2004",
+    "desa": "Kalurahan Singosaren",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.12.2004"
+  },
+  {
+    "adm4": "34.02.12.2005",
+    "desa": "Kalurahan Jambidan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.12.2005"
+  },
+  {
+    "adm4": "34.02.12.2006",
+    "desa": "Kalurahan Potorono",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.12.2006"
+  },
+  {
+    "adm4": "34.02.12.2007",
+    "desa": "Kalurahan Tamanan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.12.2007"
+  },
+  {
+    "adm4": "34.02.12.2008",
+    "desa": "Kalurahan Wirokerten",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.12.2008"
+  }
+]
+[
+  {
+    "adm4": "34.02.13.2001",
+    "desa": "Kalurahan Wonokromo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.13.2001"
+  },
+  {
+    "adm4": "34.02.13.2002",
+    "desa": "Kalurahan Pleret",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.13.2002"
+  },
+  {
+    "adm4": "34.02.13.2003",
+    "desa": "Kalurahan Segoroyoso",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.13.2003"
+  },
+  {
+    "adm4": "34.02.13.2004",
+    "desa": "Kalurahan Bawuran",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.13.2004"
+  },
+  {
+    "adm4": "34.02.13.2005",
+    "desa": "Kalurahan Wonolelo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.13.2005"
+  }
+]
+[
+  {
+    "adm4": "34.02.14.2001",
+    "desa": "Kalurahan Sitimulyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.14.2001"
+  },
+  {
+    "adm4": "34.02.14.2002",
+    "desa": "Kalurahan Srimulyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.14.2002"
+  },
+  {
+    "adm4": "34.02.14.2003",
+    "desa": "Kalurahan Srimartani",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.14.2003"
+  }
+]
+[
+  {
+    "adm4": "34.02.15.2001",
+    "desa": "Kalurahan Pendowoharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.15.2001"
+  },
+  {
+    "adm4": "34.02.15.2002",
+    "desa": "Kalurahan Timbulharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.15.2002"
+  },
+  {
+    "adm4": "34.02.15.2003",
+    "desa": "Kalurahan Bangunharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.15.2003"
+  },
+  {
+    "adm4": "34.02.15.2004",
+    "desa": "Kalurahan Panggungharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.15.2004"
+  }
+]
+[
+  {
+    "adm4": "34.02.16.2001",
+    "desa": "Kalurahan Bangunjiwo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.16.2001"
+  },
+  {
+    "adm4": "34.02.16.2002",
+    "desa": "Kalurahan Tirtonirmolo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.16.2002"
+  },
+  {
+    "adm4": "34.02.16.2003",
+    "desa": "Kalurahan Tamantirto",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.16.2003"
+  },
+  {
+    "adm4": "34.02.16.2004",
+    "desa": "Kalurahan Ngestiharjo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.16.2004"
+  }
+]
+[
+  {
+    "adm4": "34.02.17.2001",
+    "desa": "Kalurahan Argodadi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.17.2001"
+  },
+  {
+    "adm4": "34.02.17.2002",
+    "desa": "Kalurahan Argorejo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.17.2002"
+  },
+  {
+    "adm4": "34.02.17.2003",
+    "desa": "Kalurahan Argosari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.17.2003"
+  },
+  {
+    "adm4": "34.02.17.2004",
+    "desa": "Kalurahan Argomulyo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=34.02.17.2004"
+  }
+]

@@ -1,0 +1,1657 @@
+[
+  {
+    "adm4": "92.01.01.1001",
+    "desa": "Kelurahan Makbon",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.1001"
+  },
+  {
+    "adm4": "92.01.01.2002",
+    "desa": "Kampung Asbaken",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2002"
+  },
+  {
+    "adm4": "92.01.01.2004",
+    "desa": "Kampung Malaumkarta",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2004"
+  },
+  {
+    "adm4": "92.01.01.2005",
+    "desa": "Kampung Batu Lubang",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2005"
+  },
+  {
+    "adm4": "92.01.01.2007",
+    "desa": "Kampung Batu Lubang Pantai",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2007"
+  },
+  {
+    "adm4": "92.01.01.2008",
+    "desa": "Kampung Kwadas",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2008"
+  },
+  {
+    "adm4": "92.01.01.2009",
+    "desa": "Kampung Bainkete",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2009"
+  },
+  {
+    "adm4": "92.01.01.2010",
+    "desa": "Kampung Teluk Dore",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2010"
+  },
+  {
+    "adm4": "92.01.01.2011",
+    "desa": "Kampung Sawatuk",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2011"
+  },
+  {
+    "adm4": "92.01.01.2012",
+    "desa": "Kampung Malagasih",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2012"
+  },
+  {
+    "adm4": "92.01.01.2013",
+    "desa": "Kampung Klasimigik",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2013"
+  },
+  {
+    "adm4": "92.01.01.2014",
+    "desa": "Kampung Klasigi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2014"
+  },
+  {
+    "adm4": "92.01.01.2015",
+    "desa": "Kampung Klagulus",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2015"
+  },
+  {
+    "adm4": "92.01.01.2016",
+    "desa": "Kampung Suatolo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2016"
+  },
+  {
+    "adm4": "92.01.01.2017",
+    "desa": "Kampung Mibi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.01.2017"
+  },
+  {
+    "adm4": "92.01.04.2001",
+    "desa": "Kampung Klabra",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.04.2001"
+  },
+  {
+    "adm4": "92.01.04.2002",
+    "desa": "Kampung Wanurian",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.04.2002"
+  },
+  {
+    "adm4": "92.01.04.2009",
+    "desa": "Kampung Klarion",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.04.2009"
+  },
+  {
+    "adm4": "92.01.04.2011",
+    "desa": "Kampung Kaas",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.04.2011"
+  },
+  {
+    "adm4": "92.01.04.2015",
+    "desa": "Kampung Wensi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.04.2015"
+  },
+  {
+    "adm4": "92.01.04.2016",
+    "desa": "Kampung Mumpi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.04.2016"
+  },
+  {
+    "adm4": "92.01.04.2019",
+    "desa": "Kampung Klamak",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.04.2019"
+  },
+  {
+    "adm4": "92.01.04.2020",
+    "desa": "Kampung Serselion",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.04.2020"
+  },
+  {
+    "adm4": "92.01.04.2022",
+    "desa": "Kampung Kmafo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.04.2022"
+  },
+  {
+    "adm4": "92.01.04.2027",
+    "desa": "Kampung Midlal",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.04.2027"
+  },
+  {
+    "adm4": "92.01.04.2028",
+    "desa": "Kampung Sorain",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.04.2028"
+  },
+  {
+    "adm4": "92.01.04.2033",
+    "desa": "Kampung Armoin",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.04.2033"
+  },
+  {
+    "adm4": "92.01.04.2034",
+    "desa": "Kampung Serselion Baru",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.04.2034"
+  }
+]
+[
+  {
+    "adm4": "92.01.05.1001",
+    "desa": "Kelurahan Katinim",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.05.1001"
+  },
+  {
+    "adm4": "92.01.05.1006",
+    "desa": "Kelurahan Majener",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.05.1006"
+  },
+  {
+    "adm4": "92.01.05.1007",
+    "desa": "Kelurahan Majaran",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.05.1007"
+  },
+  {
+    "adm4": "92.01.05.1009",
+    "desa": "Kelurahan Matawolot",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.05.1009"
+  },
+  {
+    "adm4": "92.01.05.2011",
+    "desa": "Kampung Walal",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.05.2011"
+  },
+  {
+    "adm4": "92.01.05.2012",
+    "desa": "Kampung Malaus",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.05.2012"
+  },
+  {
+    "adm4": "92.01.05.2018",
+    "desa": "Kampung Rawa Sugi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.05.2018"
+  },
+  {
+    "adm4": "92.01.06.2001",
+    "desa": "Kampung Seget",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.06.2001"
+  },
+  {
+    "adm4": "92.01.06.2004",
+    "desa": "Kampung Malaban",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.06.2004"
+  },
+  {
+    "adm4": "92.01.06.2005",
+    "desa": "Kampung Pulau Kasim",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.06.2005"
+  },
+  {
+    "adm4": "92.01.06.2010",
+    "desa": "Kampung Kasimle",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.06.2010"
+  },
+  {
+    "adm4": "92.01.06.2011",
+    "desa": "Kampung Wewenagu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.06.2011"
+  },
+  {
+    "adm4": "92.01.06.2012",
+    "desa": "Kampung Wasingsan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.06.2012"
+  },
+  {
+    "adm4": "92.01.06.2013",
+    "desa": "Kampung Klayas",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.06.2013"
+  },
+  {
+    "adm4": "92.01.06.2014",
+    "desa": "Kampung Wayenkede",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.06.2014"
+  },
+  {
+    "adm4": "92.01.06.2015",
+    "desa": "Kampung Mobi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.06.2015"
+  },
+  {
+    "adm4": "92.01.07.1001",
+    "desa": "Kelurahan Aimas",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.1001"
+  },
+  {
+    "adm4": "92.01.07.1002",
+    "desa": "Kelurahan Malawili",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.1002"
+  },
+  {
+    "adm4": "92.01.07.1003",
+    "desa": "Kelurahan Malawele",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.1003"
+  },
+  {
+    "adm4": "92.01.07.1006",
+    "desa": "Kelurahan Mariat Pantai",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.1006"
+  },
+  {
+    "adm4": "92.01.07.1026",
+    "desa": "Kelurahan Mariat Gunung",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.1026"
+  },
+  {
+    "adm4": "92.01.07.2028",
+    "desa": "Kampung Maibo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.2028"
+  },
+  {
+    "adm4": "92.01.07.1029",
+    "desa": "Kelurahan Warmon",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.1029"
+  },
+  {
+    "adm4": "92.01.07.1030",
+    "desa": "Kelurahan Klabinain",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.1030"
+  },
+  {
+    "adm4": "92.01.07.1031",
+    "desa": "Kelurahan Malasom",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.1031"
+  },
+  {
+    "adm4": "92.01.07.1032",
+    "desa": "Kelurahan Klaigit",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.1032"
+  },
+  {
+    "adm4": "92.01.07.2033",
+    "desa": "Kampung Aimo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.2033"
+  },
+  {
+    "adm4": "92.01.07.1034",
+    "desa": "Kelurahan Malagusa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.1034"
+  },
+  {
+    "adm4": "92.01.07.1035",
+    "desa": "Kelurahan Klafma",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.1035"
+  },
+  {
+    "adm4": "92.01.07.2038",
+    "desa": "Kampung Malasaum",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.07.2038"
+  }
+]
+[
+  {
+    "adm4": "92.01.08.2001",
+    "desa": "Kampung Klawana",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.08.2001"
+  },
+  {
+    "adm4": "92.01.08.2002",
+    "desa": "Kampung Klamano",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.08.2002"
+  },
+  {
+    "adm4": "92.01.08.2003",
+    "desa": "Kampung Wariayau",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.08.2003"
+  },
+  {
+    "adm4": "92.01.08.2008",
+    "desa": "Kampung Klamono",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.08.2008"
+  },
+  {
+    "adm4": "92.01.08.2009",
+    "desa": "Kampung Wonosari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.08.2009"
+  },
+  {
+    "adm4": "92.01.08.2010",
+    "desa": "Kampung Gisim Darat",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.08.2010"
+  },
+  {
+    "adm4": "92.01.08.2013",
+    "desa": "Kampung Mlais",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.08.2013"
+  },
+  {
+    "adm4": "92.01.08.2020",
+    "desa": "Kampung Mlasmily",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.08.2020"
+  },
+  {
+    "adm4": "92.01.08.2021",
+    "desa": "Kampung Klasafet",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.08.2021"
+  },
+  {
+    "adm4": "92.01.08.2022",
+    "desa": "Kampung Posa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.08.2022"
+  },
+  {
+    "adm4": "92.01.10.2001",
+    "desa": "Kampung Sayosa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.10.2001"
+  },
+  {
+    "adm4": "92.01.10.2004",
+    "desa": "Kampung Maladofok",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.10.2004"
+  },
+  {
+    "adm4": "92.01.10.2006",
+    "desa": "Kampung Yorbes",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.10.2006"
+  },
+  {
+    "adm4": "92.01.10.2011",
+    "desa": "Kampung Samusa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.10.2011"
+  },
+  {
+    "adm4": "92.01.10.2012",
+    "desa": "Kampung Klamintu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.10.2012"
+  },
+  {
+    "adm4": "92.01.10.2014",
+    "desa": "Kampung Klain",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.10.2014"
+  },
+  {
+    "adm4": "92.01.12.2001",
+    "desa": "Kampung Segun",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.12.2001"
+  },
+  {
+    "adm4": "92.01.12.2002",
+    "desa": "Kampung Gisim",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.12.2002"
+  },
+  {
+    "adm4": "92.01.12.2003",
+    "desa": "Kampung Waimon",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.12.2003"
+  },
+  {
+    "adm4": "92.01.12.2004",
+    "desa": "Kampung Klasegun",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.12.2004"
+  },
+  {
+    "adm4": "92.01.12.2005",
+    "desa": "Kampung Waimlabat",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.12.2005"
+  },
+  {
+    "adm4": "92.01.12.2006",
+    "desa": "Kampung Majemau",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.12.2006"
+  },
+  {
+    "adm4": "92.01.12.2008",
+    "desa": "Kampung Klasin",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.12.2008"
+  },
+  {
+    "adm4": "92.01.12.2009",
+    "desa": "Kampung Klajaring",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.12.2009"
+  },
+  {
+    "adm4": "92.01.12.2010",
+    "desa": "Kampung Malamas",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.12.2010"
+  }
+]
+[
+  {
+    "adm4": "92.01.13.1001",
+    "desa": "Kelurahan Makbusum",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.13.1001"
+  },
+  {
+    "adm4": "92.01.13.1002",
+    "desa": "Kelurahan Makbalim",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.13.1002"
+  },
+  {
+    "adm4": "92.01.13.1003",
+    "desa": "Kelurahan Makotyamsa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.13.1003"
+  },
+  {
+    "adm4": "92.01.13.2004",
+    "desa": "Kampung Jeflio",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.13.2004"
+  },
+  {
+    "adm4": "92.01.13.2005",
+    "desa": "Kampung Arar",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.13.2005"
+  },
+  {
+    "adm4": "92.01.13.2006",
+    "desa": "Kampung Klalin",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.13.2006"
+  },
+  {
+    "adm4": "92.01.13.2007",
+    "desa": "Kampung Klasmelek",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.13.2007"
+  },
+  {
+    "adm4": "92.01.13.2008",
+    "desa": "Kampung Wen",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.13.2008"
+  },
+  {
+    "adm4": "92.01.13.2009",
+    "desa": "Kampung Warmon Kokoda",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.13.2009"
+  },
+  {
+    "adm4": "92.01.13.2010",
+    "desa": "Kampung Asjidba",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.13.2010"
+  },
+  {
+    "adm4": "92.01.13.2011",
+    "desa": "Kampung Malamay",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.13.2011"
+  },
+  {
+    "adm4": "92.01.14.2001",
+    "desa": "Kampung Sailolof",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.14.2001"
+  },
+  {
+    "adm4": "92.01.14.2002",
+    "desa": "Kampung Klotlol",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.14.2002"
+  },
+  {
+    "adm4": "92.01.14.2007",
+    "desa": "Kampung Dulbatan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.14.2007"
+  },
+  {
+    "adm4": "92.01.14.2008",
+    "desa": "Kampung Manoket",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.14.2008"
+  },
+  {
+    "adm4": "92.01.14.2011",
+    "desa": "Kampung Payapop",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.14.2011"
+  },
+  {
+    "adm4": "92.01.14.2012",
+    "desa": "Kampung Masmaspop",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.14.2012"
+  },
+  {
+    "adm4": "92.01.17.2003",
+    "desa": "Kampung Indiwi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.17.2003"
+  },
+  {
+    "adm4": "92.01.17.2004",
+    "desa": "Kampung Klabot",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.17.2004"
+  },
+  {
+    "adm4": "92.01.17.2005",
+    "desa": "Kampung Mlat",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.17.2005"
+  },
+  {
+    "adm4": "92.01.17.2008",
+    "desa": "Kampung Mlawes",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.17.2008"
+  },
+  {
+    "adm4": "92.01.17.2009",
+    "desa": "Kampung Mlasfa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.17.2009"
+  },
+  {
+    "adm4": "92.01.17.2010",
+    "desa": "Kampung Kanolo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.17.2010"
+  },
+  {
+    "adm4": "92.01.17.2014",
+    "desa": "Kampung Somir",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.17.2014"
+  },
+  {
+    "adm4": "92.01.17.2015",
+    "desa": "Kampung Warkti",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.17.2015"
+  }
+]
+[
+  {
+    "adm4": "92.01.18.2001",
+    "desa": "Kampung Wilty",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.18.2001"
+  },
+  {
+    "adm4": "92.01.18.2004",
+    "desa": "Kampung Mlawen",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.18.2004"
+  },
+  {
+    "adm4": "92.01.18.2008",
+    "desa": "Kampung Byaklokfle",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.18.2008"
+  },
+  {
+    "adm4": "92.01.18.2009",
+    "desa": "Kampung Tbotjin",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.18.2009"
+  },
+  {
+    "adm4": "92.01.18.2010",
+    "desa": "Kampung Sas",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.18.2010"
+  },
+  {
+    "adm4": "92.01.18.2011",
+    "desa": "Kampung Samolslo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.18.2011"
+  },
+  {
+    "adm4": "92.01.18.2012",
+    "desa": "Kampung Kmasen",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.18.2012"
+  },
+  {
+    "adm4": "92.01.18.2013",
+    "desa": "Kampung Klasawon",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.18.2013"
+  },
+  {
+    "adm4": "92.01.18.2014",
+    "desa": "Kampung Yurkaden",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.18.2014"
+  },
+  {
+    "adm4": "92.01.18.2019",
+    "desa": "Kampung Betwaft",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.18.2019"
+  },
+  {
+    "adm4": "92.01.18.2025",
+    "desa": "Kampung Cokif",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.18.2025"
+  },
+  {
+    "adm4": "92.01.20.2001",
+    "desa": "Kampung Luwelala",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.20.2001"
+  },
+  {
+    "adm4": "92.01.20.2003",
+    "desa": "Kampung Klatim",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.20.2003"
+  },
+  {
+    "adm4": "92.01.20.2004",
+    "desa": "Kampung Klaos",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.20.2004"
+  },
+  {
+    "adm4": "92.01.20.2006",
+    "desa": "Kampung Suluh",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.20.2006"
+  },
+  {
+    "adm4": "92.01.20.2009",
+    "desa": "Kampung Bosi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.20.2009"
+  },
+  {
+    "adm4": "92.01.20.2010",
+    "desa": "Kampung Kamuyar",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.20.2010"
+  },
+  {
+    "adm4": "92.01.20.2011",
+    "desa": "Kampung Klaka",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.20.2011"
+  },
+  {
+    "adm4": "92.01.20.2012",
+    "desa": "Kampung Safdesa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.20.2012"
+  },
+  {
+    "adm4": "92.01.20.2015",
+    "desa": "Kampung Klagen",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.20.2015"
+  },
+  {
+    "adm4": "92.01.39.1001",
+    "desa": "Kelurahan Klamalu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.39.1001"
+  },
+  {
+    "adm4": "92.01.39.1002",
+    "desa": "Kelurahan Mariyai",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.39.1002"
+  },
+  {
+    "adm4": "92.01.39.1003",
+    "desa": "Kelurahan Klasukuk",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.39.1003"
+  },
+  {
+    "adm4": "92.01.39.1004",
+    "desa": "Kelurahan Klamasen",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.39.1004"
+  },
+  {
+    "adm4": "92.01.39.2005",
+    "desa": "Kampung Klaben",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.39.2005"
+  },
+  {
+    "adm4": "92.01.39.2007",
+    "desa": "Kampung Klasan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.39.2007"
+  },
+  {
+    "adm4": "92.01.39.2008",
+    "desa": "Kampung Fafi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.39.2008"
+  },
+  {
+    "adm4": "92.01.39.1009",
+    "desa": "Kelurahan Maklalut",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.39.1009"
+  },
+  {
+    "adm4": "92.01.39.1010",
+    "desa": "Kelurahan Klaru",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.39.1010"
+  },
+  {
+    "adm4": "92.01.39.1011",
+    "desa": "Kelurahan Jamaimo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.39.1011"
+  },
+  {
+    "adm4": "92.01.39.2012",
+    "desa": "Kampung Kasih",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.39.2012"
+  }
+]
+[
+  {
+    "adm4": "92.01.40.2001",
+    "desa": "Kampung Klayili",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.40.2001"
+  },
+  {
+    "adm4": "92.01.40.2002",
+    "desa": "Kampung Klawuluh",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.40.2002"
+  },
+  {
+    "adm4": "92.01.40.2003",
+    "desa": "Kampung Malakobutu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.40.2003"
+  },
+  {
+    "adm4": "92.01.40.2004",
+    "desa": "Kampung Kwakeik",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.40.2004"
+  },
+  {
+    "adm4": "92.01.40.2005",
+    "desa": "Kampung Klasowoh",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.40.2005"
+  },
+  {
+    "adm4": "92.01.40.2006",
+    "desa": "Kampung Malalilis",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.40.2006"
+  },
+  {
+    "adm4": "92.01.40.2007",
+    "desa": "Kampung Mlawer",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.40.2007"
+  },
+  {
+    "adm4": "92.01.40.2008",
+    "desa": "Kampung Klatomok",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.40.2008"
+  }
+]
+[
+  {
+    "adm4": "92.01.42.2001",
+    "desa": "Kampung Klafdalim",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.42.2001"
+  },
+  {
+    "adm4": "92.01.42.2002",
+    "desa": "Kampung Klaforo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.42.2002"
+  },
+  {
+    "adm4": "92.01.42.2003",
+    "desa": "Kampung Klasof",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.42.2003"
+  },
+  {
+    "adm4": "92.01.42.2004",
+    "desa": "Kampung Ninjemur",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.42.2004"
+  },
+  {
+    "adm4": "92.01.42.2005",
+    "desa": "Kampung Klasarin",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.42.2005"
+  },
+  {
+    "adm4": "92.01.42.2006",
+    "desa": "Kampung Klawoton",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.42.2006"
+  },
+  {
+    "adm4": "92.01.42.2007",
+    "desa": "Kampung Wonosobo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.42.2007"
+  },
+  {
+    "adm4": "92.01.42.2008",
+    "desa": "Kampung Sakamerin",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.42.2008"
+  },
+  {
+    "adm4": "92.01.42.2009",
+    "desa": "Kampung Masmili",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.42.2009"
+  },
+  {
+    "adm4": "92.01.43.2001",
+    "desa": "Kampung Maibo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.43.2001"
+  },
+  {
+    "adm4": "92.01.43.2002",
+    "desa": "Kampung Malaflon",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.43.2002"
+  },
+  {
+    "adm4": "92.01.43.2003",
+    "desa": "Kampung Kabanmolo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.43.2003"
+  },
+  {
+    "adm4": "92.01.43.2004",
+    "desa": "Kampung Klatok",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.43.2004"
+  },
+  {
+    "adm4": "92.01.44.2001",
+    "desa": "Kampung Disfra",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.44.2001"
+  },
+  {
+    "adm4": "92.01.44.2002",
+    "desa": "Kampung Bagun",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.44.2002"
+  },
+  {
+    "adm4": "92.01.44.2003",
+    "desa": "Kampung Klawom",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.44.2003"
+  },
+  {
+    "adm4": "92.01.44.2004",
+    "desa": "Kampung Klamomis",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.44.2004"
+  },
+  {
+    "adm4": "92.01.44.2005",
+    "desa": "Kampung Klakwonrit",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.44.2005"
+  },
+  {
+    "adm4": "92.01.44.2006",
+    "desa": "Kampung Mode",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.44.2006"
+  },
+  {
+    "adm4": "92.01.44.2007",
+    "desa": "Kampung Bratmawe",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.44.2007"
+  },
+  {
+    "adm4": "92.01.44.2008",
+    "desa": "Kampung Klawon",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.44.2008"
+  },
+  {
+    "adm4": "92.01.44.2009",
+    "desa": "Kampung Mlamli",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.44.2009"
+  }
+]
+[
+  {
+    "adm4": "92.01.51.2001",
+    "desa": "Kampung Maladuk",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.51.2001"
+  },
+  {
+    "adm4": "92.01.51.2002",
+    "desa": "Kampung Klamono Oil",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.51.2002"
+  },
+  {
+    "adm4": "92.01.51.2003",
+    "desa": "Kampung Bar Ros",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.51.2003"
+  },
+  {
+    "adm4": "92.01.51.2004",
+    "desa": "Kampung Pusu Tiligum",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.51.2004"
+  },
+  {
+    "adm4": "92.01.51.2005",
+    "desa": "Kampung Klawili Be",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.51.2005"
+  },
+  {
+    "adm4": "92.01.52.2001",
+    "desa": "Kampung Hobard",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.52.2001"
+  },
+  {
+    "adm4": "92.01.52.2002",
+    "desa": "Kampung Brianlo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.52.2002"
+  },
+  {
+    "adm4": "92.01.52.2003",
+    "desa": "Kampung Floyi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.52.2003"
+  },
+  {
+    "adm4": "92.01.52.2004",
+    "desa": "Kampung Klaselt",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.52.2004"
+  },
+  {
+    "adm4": "92.01.52.2005",
+    "desa": "Kampung Sfadon",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.52.2005"
+  },
+  {
+    "adm4": "92.01.52.2006",
+    "desa": "Kampung Selol",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.52.2006"
+  },
+  {
+    "adm4": "92.01.52.2007",
+    "desa": "Kampung Dais",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.52.2007"
+  },
+  {
+    "adm4": "92.01.53.2001",
+    "desa": "Kampung Waliam",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.53.2001"
+  },
+  {
+    "adm4": "92.01.53.2002",
+    "desa": "Kampung Manfanim",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.53.2002"
+  },
+  {
+    "adm4": "92.01.53.2003",
+    "desa": "Kampung Waibin",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.53.2003"
+  },
+  {
+    "adm4": "92.01.53.2004",
+    "desa": "Kampung Waiman",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.53.2004"
+  },
+  {
+    "adm4": "92.01.53.2005",
+    "desa": "Kampung Sakapul",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.53.2005"
+  },
+  {
+    "adm4": "92.01.53.2006",
+    "desa": "Kampung Maralol",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.53.2006"
+  },
+  {
+    "adm4": "92.01.53.2007",
+    "desa": "Kampung Batbiro",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.53.2007"
+  },
+  {
+    "adm4": "92.01.53.2008",
+    "desa": "Kampung Durian Kari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.53.2008"
+  },
+  {
+    "adm4": "92.01.53.2009",
+    "desa": "Kampung Meyaup",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.53.2009"
+  },
+  {
+    "adm4": "92.01.53.2010",
+    "desa": "Kampung Sailen",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.53.2010"
+  },
+  {
+    "adm4": "92.01.54.2001",
+    "desa": "Kampung Klafluk",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.54.2001"
+  },
+  {
+    "adm4": "92.01.54.2002",
+    "desa": "Kampung Mamsit",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.54.2002"
+  },
+  {
+    "adm4": "92.01.54.2003",
+    "desa": "Kampung Sabake",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.54.2003"
+  },
+  {
+    "adm4": "92.01.54.2004",
+    "desa": "Kampung Klayastani",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.54.2004"
+  },
+  {
+    "adm4": "92.01.55.2001",
+    "desa": "Kampung Sailala",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.55.2001"
+  },
+  {
+    "adm4": "92.01.55.2002",
+    "desa": "Kampung Klawana",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.55.2002"
+  },
+  {
+    "adm4": "92.01.55.2003",
+    "desa": "Kampung Kladuk",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.55.2003"
+  },
+  {
+    "adm4": "92.01.55.2004",
+    "desa": "Kampung Klawon",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.55.2004"
+  },
+  {
+    "adm4": "92.01.55.2005",
+    "desa": "Kampung Klakak",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.55.2005"
+  },
+  {
+    "adm4": "92.01.55.2006",
+    "desa": "Kampung Klalwok",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.01.55.2006"
+  }
+]
+[
+  {
+    "adm4": "92.02.05.2001",
+    "desa": "Kampung Masni",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2001"
+  },
+  {
+    "adm4": "92.02.05.2002",
+    "desa": "Kampung Sumber Boga",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2002"
+  },
+  {
+    "adm4": "92.02.05.2003",
+    "desa": "Kampung Prafi Barat",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2003"
+  },
+  {
+    "adm4": "92.02.05.2004",
+    "desa": "Kampung Muara Prafi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2004"
+  },
+  {
+    "adm4": "92.02.05.2006",
+    "desa": "Kampung Macuan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2006"
+  },
+  {
+    "adm4": "92.02.05.2008",
+    "desa": "Kampung Wariori",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2008"
+  },
+  {
+    "adm4": "92.02.05.2009",
+    "desa": "Kampung Bowi Subur",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2009"
+  },
+  {
+    "adm4": "92.02.05.2010",
+    "desa": "Kampung Makwan",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2010"
+  },
+  {
+    "adm4": "92.02.05.2011",
+    "desa": "Kampung Kali Merah",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2011"
+  },
+  {
+    "adm4": "92.02.05.2012",
+    "desa": "Kampung Meiforga",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2012"
+  },
+  {
+    "adm4": "92.02.05.2013",
+    "desa": "Kampung Sibuni",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2013"
+  },
+  {
+    "adm4": "92.02.05.2014",
+    "desa": "Kampung Yensum",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2014"
+  },
+  {
+    "adm4": "92.02.05.2015",
+    "desa": "Kampung Mansaburi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2015"
+  },
+  {
+    "adm4": "92.02.05.2016",
+    "desa": "Kampung Igor",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2016"
+  },
+  {
+    "adm4": "92.02.05.2017",
+    "desa": "Kampung Merejemeg",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2017"
+  },
+  {
+    "adm4": "92.02.05.2018",
+    "desa": "Kampung Aurmios",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2018"
+  },
+  {
+    "adm4": "92.02.05.2020",
+    "desa": "Kampung Sembab",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2020"
+  },
+  {
+    "adm4": "92.02.05.2024",
+    "desa": "Kampung Membowi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2024"
+  },
+  {
+    "adm4": "92.02.05.2027",
+    "desa": "Kampung Yonsoribo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2027"
+  },
+  {
+    "adm4": "92.02.05.2028",
+    "desa": "Kampung Meyof II",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2028"
+  },
+  {
+    "adm4": "92.02.05.2030",
+    "desa": "Kampung Moubja",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2030"
+  },
+  {
+    "adm4": "92.02.05.2031",
+    "desa": "Kampung Ririnfos",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2031"
+  },
+  {
+    "adm4": "92.02.05.2032",
+    "desa": "Kampung Muara Wariori",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2032"
+  },
+  {
+    "adm4": "92.02.05.2034",
+    "desa": "Kampung Koyani",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2034"
+  },
+  {
+    "adm4": "92.02.05.2035",
+    "desa": "Kampung Meyeruk",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2035"
+  },
+  {
+    "adm4": "92.02.05.2036",
+    "desa": "Kampung Inyei",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2036"
+  },
+  {
+    "adm4": "92.02.05.2037",
+    "desa": "Kampung Undi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2037"
+  },
+  {
+    "adm4": "92.02.05.2038",
+    "desa": "Kampung Jowen",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2038"
+  },
+  {
+    "adm4": "92.02.05.2039",
+    "desa": "Kampung Aska",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2039"
+  },
+  {
+    "adm4": "92.02.05.2040",
+    "desa": "Kampung Mantedi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2040"
+  },
+  {
+    "adm4": "92.02.05.2042",
+    "desa": "Kampung Wariori Indah",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2042"
+  },
+  {
+    "adm4": "92.02.05.2045",
+    "desa": "Kampung Urey",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2045"
+  },
+  {
+    "adm4": "92.02.05.2046",
+    "desa": "Kampung Wamfoura",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.05.2046"
+  },
+  {
+    "adm4": "92.02.12.1001",
+    "desa": "Kelurahan Manokwari Barat",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.12.1001"
+  },
+  {
+    "adm4": "92.02.12.1002",
+    "desa": "Kelurahan Sanggeng",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.12.1002"
+  },
+  {
+    "adm4": "92.02.12.1003",
+    "desa": "Kelurahan Wosi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.12.1003"
+  },
+  {
+    "adm4": "92.02.12.1004",
+    "desa": "Kelurahan Amban",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.12.1004"
+  },
+  {
+    "adm4": "92.02.12.1005",
+    "desa": "Kelurahan Padarni",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.12.1005"
+  },
+  {
+    "adm4": "92.02.12.1006",
+    "desa": "Kelurahan Manokwari Timur",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.12.1006"
+  },
+  {
+    "adm4": "92.02.12.2007",
+    "desa": "Kampung Udopi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.12.2007"
+  },
+  {
+    "adm4": "92.02.12.2008",
+    "desa": "Kampung Ingramui",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.12.2008"
+  },
+  {
+    "adm4": "92.02.12.2009",
+    "desa": "Kampung Soribo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.12.2009"
+  },
+  {
+    "adm4": "92.02.12.2010",
+    "desa": "Kampung Tanah Merah Indah",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.12.2010"
+  }
+]
+[
+  {
+    "adm4": "92.02.13.1001",
+    "desa": "Kelurahan Pasir Putih",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.13.1001"
+  },
+  {
+    "adm4": "92.02.13.2002",
+    "desa": "Kampung Mansinam",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.13.2002"
+  },
+  {
+    "adm4": "92.02.13.2003",
+    "desa": "Kampung Ayambori",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.13.2003"
+  },
+  {
+    "adm4": "92.02.13.2004",
+    "desa": "Kampung Bakaro",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.13.2004"
+  },
+  {
+    "adm4": "92.02.13.2005",
+    "desa": "Kampung Arowi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.13.2005"
+  },
+  {
+    "adm4": "92.02.13.2006",
+    "desa": "Kampung Aipiri",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.13.2006"
+  },
+  {
+    "adm4": "92.02.13.2007",
+    "desa": "Kampung Susweni",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.13.2007"
+  },
+  {
+    "adm4": "92.02.14.2001",
+    "desa": "Kampung Yoom I",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2001"
+  },
+  {
+    "adm4": "92.02.14.2002",
+    "desa": "Kampung Mandopi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2002"
+  },
+  {
+    "adm4": "92.02.14.2003",
+    "desa": "Kampung Mubri",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2003"
+  },
+  {
+    "adm4": "92.02.14.2004",
+    "desa": "Kampung Yoom II",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2004"
+  },
+  {
+    "adm4": "92.02.14.2005",
+    "desa": "Kampung Teluk Mubri",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2005"
+  },
+  {
+    "adm4": "92.02.14.2006",
+    "desa": "Kampung Meyes",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2006"
+  },
+  {
+    "adm4": "92.02.14.2007",
+    "desa": "Kampung Bremi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2007"
+  },
+  {
+    "adm4": "92.02.14.2008",
+    "desa": "Kampung Saubeba",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2008"
+  },
+  {
+    "adm4": "92.02.14.2009",
+    "desa": "Kampung Pami",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2009"
+  },
+  {
+    "adm4": "92.02.14.2010",
+    "desa": "Kampung Warbefor",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2010"
+  },
+  {
+    "adm4": "92.02.14.2011",
+    "desa": "Kampung Asai",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2011"
+  },
+  {
+    "adm4": "92.02.14.2012",
+    "desa": "Kampung Inya",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2012"
+  },
+  {
+    "adm4": "92.02.14.2013",
+    "desa": "Kampung Meyunfoka",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2013"
+  },
+  {
+    "adm4": "92.02.14.2014",
+    "desa": "Kampung Tanah Rubuh",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2014"
+  },
+  {
+    "adm4": "92.02.14.2015",
+    "desa": "Kampung Sairo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2015"
+  },
+  {
+    "adm4": "92.02.14.2016",
+    "desa": "Kampung Singgimeba",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2016"
+  },
+  {
+    "adm4": "92.02.14.2017",
+    "desa": "Kampung Inoduas",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2017"
+  },
+  {
+    "adm4": "92.02.14.2018",
+    "desa": "Kampung Lebau",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2018"
+  },
+  {
+    "adm4": "92.02.14.2020",
+    "desa": "Kampung Cabang Dua",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2020"
+  },
+  {
+    "adm4": "92.02.14.2021",
+    "desa": "Kampung Yonggam",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2021"
+  },
+  {
+    "adm4": "92.02.14.2022",
+    "desa": "Kampung Indou Oufa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2022"
+  },
+  {
+    "adm4": "92.02.14.2023",
+    "desa": "Kampung Mubraidiba",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.14.2023"
+  }
+]
+[
+  {
+    "adm4": "92.02.15.1001",
+    "desa": "Kelurahan Sowi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.1001"
+  },
+  {
+    "adm4": "92.02.15.1002",
+    "desa": "Kelurahan Anday",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.1002"
+  },
+  {
+    "adm4": "92.02.15.2003",
+    "desa": "Kampung Katebu",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2003"
+  },
+  {
+    "adm4": "92.02.15.2004",
+    "desa": "Kampung Masyepi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2004"
+  },
+  {
+    "adm4": "92.02.15.2005",
+    "desa": "Kampung Warmomi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2005"
+  },
+  {
+    "adm4": "92.02.15.2006",
+    "desa": "Kampung Dihara",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2006"
+  },
+  {
+    "adm4": "92.02.15.2007",
+    "desa": "Kampung Waluri",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2007"
+  },
+  {
+    "adm4": "92.02.15.2008",
+    "desa": "Kampung Maruni",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2008"
+  },
+  {
+    "adm4": "92.02.15.2009",
+    "desa": "Kampung Misapmeysi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2009"
+  },
+  {
+    "adm4": "92.02.15.2010",
+    "desa": "Kampung Wasai",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2010"
+  },
+  {
+    "adm4": "92.02.15.2011",
+    "desa": "Kampung Anggresi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2011"
+  },
+  {
+    "adm4": "92.02.15.2012",
+    "desa": "Kampung Mupi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2012"
+  },
+  {
+    "adm4": "92.02.15.2013",
+    "desa": "Kampung Warswami",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2013"
+  },
+  {
+    "adm4": "92.02.15.2014",
+    "desa": "Kampung Acemo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2014"
+  },
+  {
+    "adm4": "92.02.15.2015",
+    "desa": "Kampung Wamesa",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2015"
+  },
+  {
+    "adm4": "92.02.15.2016",
+    "desa": "Kampung Dobut",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2016"
+  },
+  {
+    "adm4": "92.02.15.2017",
+    "desa": "Kampung Warkomi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2017"
+  },
+  {
+    "adm4": "92.02.15.2018",
+    "desa": "Kampung Ngunimbouw",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.15.2018"
+  },
+  {
+    "adm4": "92.02.17.2001",
+    "desa": "Kampung Warkapi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2001"
+  },
+  {
+    "adm4": "92.02.17.2002",
+    "desa": "Kampung Ayawi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2002"
+  },
+  {
+    "adm4": "92.02.17.2003",
+    "desa": "Kampung Ukopti",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2003"
+  },
+  {
+    "adm4": "92.02.17.2004",
+    "desa": "Kampung Misabugoid",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2004"
+  },
+  {
+    "adm4": "92.02.17.2005",
+    "desa": "Kampung Mbatma",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2005"
+  },
+  {
+    "adm4": "92.02.17.2006",
+    "desa": "Kampung Urwambei",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2006"
+  },
+  {
+    "adm4": "92.02.17.2007",
+    "desa": "Kampung Imbeisika I",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2007"
+  },
+  {
+    "adm4": "92.02.17.2008",
+    "desa": "Kampung Imbeisika II",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2008"
+  },
+  {
+    "adm4": "92.02.17.2009",
+    "desa": "Kampung Warmawai",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2009"
+  },
+  {
+    "adm4": "92.02.17.2010",
+    "desa": "Kampung Rembuy",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2010"
+  },
+  {
+    "adm4": "92.02.17.2011",
+    "desa": "Kampung Imhasuma",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2011"
+  },
+  {
+    "adm4": "92.02.17.2012",
+    "desa": "Kampung Cuyehep",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2012"
+  },
+  {
+    "adm4": "92.02.17.2013",
+    "desa": "Kampung Hanghouw",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2013"
+  },
+  {
+    "adm4": "92.02.17.2014",
+    "desa": "Kampung Ningdip",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2014"
+  },
+  {
+    "adm4": "92.02.17.2015",
+    "desa": "Kampung Warami",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2015"
+  },
+  {
+    "adm4": "92.02.17.2016",
+    "desa": "Kampung Imboiti",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2016"
+  },
+  {
+    "adm4": "92.02.17.2017",
+    "desa": "Kampung Wariari",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2017"
+  },
+  {
+    "adm4": "92.02.17.2018",
+    "desa": "Kampung Indibo",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2018"
+  },
+  {
+    "adm4": "92.02.17.2019",
+    "desa": "Kampung Umnum",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2019"
+  },
+  {
+    "adm4": "92.02.17.2020",
+    "desa": "Kampung Ukemboisi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2020"
+  },
+  {
+    "adm4": "92.02.17.2021",
+    "desa": "Kampung Menyumfoku",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2021"
+  },
+  {
+    "adm4": "92.02.17.2022",
+    "desa": "Kampung Wedoni",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2022"
+  },
+  {
+    "adm4": "92.02.17.2023",
+    "desa": "Kampung Mirowi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2023"
+  },
+  {
+    "adm4": "92.02.17.2024",
+    "desa": "Kampung Warnyeti",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.17.2024"
+  },
+  {
+    "adm4": "92.02.21.2001",
+    "desa": "Kampung Kaironi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.21.2001"
+  },
+  {
+    "adm4": "92.02.21.2002",
+    "desa": "Kampung Sidey",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.21.2002"
+  },
+  {
+    "adm4": "92.02.21.2003",
+    "desa": "Kampung Waramui",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.21.2003"
+  },
+  {
+    "adm4": "92.02.21.2004",
+    "desa": "Kampung Kassi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.21.2004"
+  },
+  {
+    "adm4": "92.02.21.2005",
+    "desa": "Kampung Saray",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.21.2005"
+  },
+  {
+    "adm4": "92.02.21.2006",
+    "desa": "Kampung Sidey Baru",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.21.2006"
+  },
+  {
+    "adm4": "92.02.21.2007",
+    "desa": "Kampung Sidey Makmur",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.21.2007"
+  },
+  {
+    "adm4": "92.02.21.2008",
+    "desa": "Kampung Meyof I",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.21.2008"
+  },
+  {
+    "adm4": "92.02.21.2009",
+    "desa": "Kampung Wariki",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.21.2009"
+  },
+  {
+    "adm4": "92.02.21.2010",
+    "desa": "Kampung Womnowi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.21.2010"
+  },
+  {
+    "adm4": "92.02.21.2011",
+    "desa": "Kampung Manggupi",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.21.2011"
+  },
+  {
+    "adm4": "92.02.21.2012",
+    "desa": "Kampung Sidey Jaya",
+    "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=92.02.21.2012"
+  }
+]

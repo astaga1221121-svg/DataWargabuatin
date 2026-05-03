@@ -1,0 +1,1305 @@
+{
+  "adm4": "52.01.01.1001",
+  "desa": "Kelurahan Gerung Utara",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.1001"
+},
+{
+  "adm4": "52.01.01.2002",
+  "desa": "Desa Kebon Ayu",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.2002"
+},
+{
+  "adm4": "52.01.01.2003",
+  "desa": "Desa Gapuk",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.2003"
+},
+{
+  "adm4": "52.01.01.1004",
+  "desa": "Kelurahan Dasan Geres",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.1004"
+},
+{
+  "adm4": "52.01.01.2005",
+  "desa": "Desa Suka Makmur",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.2005"
+},
+{
+  "adm4": "52.01.01.2006",
+  "desa": "Desa Banyu Urip",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.2006"
+},
+{
+  "adm4": "52.01.01.2007",
+  "desa": "Desa Babussalam",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.2007"
+},
+{
+  "adm4": "52.01.01.2008",
+  "desa": "Desa Dasan Tapen",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.2008"
+},
+{
+  "adm4": "52.01.01.2009",
+  "desa": "Desa Beleke",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.2009"
+},
+{
+  "adm4": "52.01.01.2010",
+  "desa": "Desa Tempos",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.2010"
+},
+{
+  "adm4": "52.01.01.1011",
+  "desa": "Kelurahan Gerung Selatan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.1011"
+},
+{
+  "adm4": "52.01.01.2012",
+  "desa": "Desa Mesanggok",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.2012"
+},
+{
+  "adm4": "52.01.01.2013",
+  "desa": "Desa Taman Ayu",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.2013"
+},
+{
+  "adm4": "52.01.01.2014",
+  "desa": "Desa Giri Tembesi",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.01.2014"
+},
+{
+  "adm4": "52.01.02.2001",
+  "desa": "Desa Kediri",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.02.2001"
+},
+{
+  "adm4": "52.01.02.2002",
+  "desa": "Desa Montong Are",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.02.2002"
+},
+{
+  "adm4": "52.01.02.2003",
+  "desa": "Desa Jagaraga Indah",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.02.2003"
+},
+{
+  "adm4": "52.01.02.2004",
+  "desa": "Desa Gelogor",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.02.2004"
+},
+{
+  "adm4": "52.01.02.2005",
+  "desa": "Desa Rumak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.02.2005"
+},
+{
+  "adm4": "52.01.02.2006",
+  "desa": "Desa Banyumulek",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.02.2006"
+},
+{
+  "adm4": "52.01.02.2007",
+  "desa": "Desa Ombe Baru",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.02.2007"
+},
+{
+  "adm4": "52.01.02.2008",
+  "desa": "Desa Dasan Baru",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.02.2008"
+},
+{
+  "adm4": "52.01.02.2009",
+  "desa": "Desa Kediri Selatan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.02.2009"
+},
+{
+  "adm4": "52.01.02.2010",
+  "desa": "Desa Lelede",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.02.2010"
+}
+{
+  "adm4": "52.01.03.2001",
+  "desa": "Desa Lembuak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2001"
+},
+{
+  "adm4": "52.01.03.2002",
+  "desa": "Desa Nyur Lembang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2002"
+},
+{
+  "adm4": "52.01.03.2003",
+  "desa": "Desa Peresak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2003"
+},
+{
+  "adm4": "52.01.03.2004",
+  "desa": "Desa Keru",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2004"
+},
+{
+  "adm4": "52.01.03.2005",
+  "desa": "Desa Batu Kuta",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2005"
+},
+{
+  "adm4": "52.01.03.2006",
+  "desa": "Desa Tanak Beak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2006"
+},
+{
+  "adm4": "52.01.03.2007",
+  "desa": "Desa Sedau",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2007"
+},
+{
+  "adm4": "52.01.03.2008",
+  "desa": "Desa Suranadi",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2008"
+},
+{
+  "adm4": "52.01.03.2009",
+  "desa": "Desa Selat",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2009"
+},
+{
+  "adm4": "52.01.03.2010",
+  "desa": "Desa Lebah Sempage",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2010"
+},
+{
+  "adm4": "52.01.03.2011",
+  "desa": "Desa Sesaot",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2011"
+},
+{
+  "adm4": "52.01.03.2012",
+  "desa": "Desa Dasan Tereng",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2012"
+},
+{
+  "adm4": "52.01.03.2013",
+  "desa": "Desa Badrain",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2013"
+},
+{
+  "adm4": "52.01.03.2014",
+  "desa": "Desa Sembung",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2014"
+},
+{
+  "adm4": "52.01.03.2015",
+  "desa": "Desa Kramat Jaya",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2015"
+},
+{
+  "adm4": "52.01.03.2016",
+  "desa": "Desa Grimax Indah",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2016"
+},
+{
+  "adm4": "52.01.03.2017",
+  "desa": "Desa Pakuan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2017"
+},
+{
+  "adm4": "52.01.03.2018",
+  "desa": "Desa Golong",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2018"
+},
+{
+  "adm4": "52.01.03.2019",
+  "desa": "Desa Mekarsari",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2019"
+},
+{
+  "adm4": "52.01.03.2020",
+  "desa": "Desa Buwun Sejati",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2020"
+},
+{
+  "adm4": "52.01.03.2021",
+  "desa": "Desa Narmada",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.03.2021"
+}
+{
+  "adm4": "52.01.07.2001",
+  "desa": "Desa Sekotong Tengah",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.07.2001"
+},
+{
+  "adm4": "52.01.07.2002",
+  "desa": "Desa Sekotong Barat",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.07.2002"
+},
+{
+  "adm4": "52.01.07.2003",
+  "desa": "Desa Pelangan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.07.2003"
+},
+{
+  "adm4": "52.01.07.2004",
+  "desa": "Desa Buwun Mas",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.07.2004"
+},
+{
+  "adm4": "52.01.07.2005",
+  "desa": "Desa Kedaro",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.07.2005"
+},
+{
+  "adm4": "52.01.07.2006",
+  "desa": "Desa Batu Putih",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.07.2006"
+},
+{
+  "adm4": "52.01.07.2007",
+  "desa": "Desa Gili Gede Indah",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.07.2007"
+},
+{
+  "adm4": "52.01.07.2008",
+  "desa": "Desa Cendi Manik",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.07.2008"
+},
+{
+  "adm4": "52.01.07.2009",
+  "desa": "Desa Taman Baru",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.07.2009"
+},
+{
+  "adm4": "52.01.08.2001",
+  "desa": "Desa Bengkel",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.08.2001"
+},
+{
+  "adm4": "52.01.08.2002",
+  "desa": "Desa Merembu",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.08.2002"
+},
+{
+  "adm4": "52.01.08.2003",
+  "desa": "Desa Bagik Polak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.08.2003"
+},
+{
+  "adm4": "52.01.08.2004",
+  "desa": "Desa Telagawaru",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.08.2004"
+},
+{
+  "adm4": "52.01.08.2005",
+  "desa": "Desa Perampuan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.08.2005"
+},
+{
+  "adm4": "52.01.08.2006",
+  "desa": "Desa Bajur",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.08.2006"
+},
+{
+  "adm4": "52.01.08.2007",
+  "desa": "Desa Terong Tawah",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.08.2007"
+},
+{
+  "adm4": "52.01.08.2008",
+  "desa": "Desa Kuranji",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.08.2008"
+},
+{
+  "adm4": "52.01.08.2009",
+  "desa": "Desa Karang Bongkot",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.08.2009"
+},
+{
+  "adm4": "52.01.08.2010",
+  "desa": "Desa Labuapi",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.08.2010"
+},
+{
+  "adm4": "52.01.08.2011",
+  "desa": "Desa Bagik Polak Barat",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.08.2011"
+},
+{
+  "adm4": "52.01.08.2012",
+  "desa": "Desa Kuranji Dalang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.08.2012"
+}
+{
+  "adm4": "52.01.09.2001",
+  "desa": "Desa Gunungsari",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2001"
+},
+{
+  "adm4": "52.01.09.2002",
+  "desa": "Desa Midang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2002"
+},
+{
+  "adm4": "52.01.09.2003",
+  "desa": "Desa Sesele",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2003"
+},
+{
+  "adm4": "52.01.09.2004",
+  "desa": "Desa Kekait",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2004"
+},
+{
+  "adm4": "52.01.09.2005",
+  "desa": "Desa Kekeri",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2005"
+},
+{
+  "adm4": "52.01.09.2006",
+  "desa": "Desa Mambalan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2006"
+},
+{
+  "adm4": "52.01.09.2007",
+  "desa": "Desa Dopang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2007"
+},
+{
+  "adm4": "52.01.09.2008",
+  "desa": "Desa Penimbung",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2008"
+},
+{
+  "adm4": "52.01.09.2009",
+  "desa": "Desa Taman Sari",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2009"
+},
+{
+  "adm4": "52.01.09.2010",
+  "desa": "Desa Jatisela",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2010"
+},
+{
+  "adm4": "52.01.09.2011",
+  "desa": "Desa Guntur Macan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2011"
+},
+{
+  "adm4": "52.01.09.2012",
+  "desa": "Desa Mekar Sari",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2012"
+},
+{
+  "adm4": "52.01.09.2013",
+  "desa": "Desa Ranjok",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2013"
+},
+{
+  "adm4": "52.01.09.2014",
+  "desa": "Desa Gelangsar",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2014"
+},
+{
+  "adm4": "52.01.09.2015",
+  "desa": "Desa Jeringo",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2015"
+},
+{
+  "adm4": "52.01.09.2016",
+  "desa": "Desa Bukittinggi",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.09.2016"
+},
+{
+  "adm4": "52.01.12.2001",
+  "desa": "Desa Lingsar",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2001"
+},
+{
+  "adm4": "52.01.12.2002",
+  "desa": "Desa Batu Kumbang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2002"
+},
+{
+  "adm4": "52.01.12.2003",
+  "desa": "Desa Sigerongan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2003"
+},
+{
+  "adm4": "52.01.12.2004",
+  "desa": "Desa Duman",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2004"
+},
+{
+  "adm4": "52.01.12.2005",
+  "desa": "Desa Karang Bayan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2005"
+},
+{
+  "adm4": "52.01.12.2006",
+  "desa": "Desa Langko",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2006"
+},
+{
+  "adm4": "52.01.12.2007",
+  "desa": "Desa Dasan Geria",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2007"
+},
+{
+  "adm4": "52.01.12.2008",
+  "desa": "Desa Peteluan Indah",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2008"
+},
+{
+  "adm4": "52.01.12.2009",
+  "desa": "Desa Gegerung",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2009"
+},
+{
+  "adm4": "52.01.12.2010",
+  "desa": "Desa Batu Mekar",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2010"
+},
+{
+  "adm4": "52.01.12.2011",
+  "desa": "Desa Giri Madia",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2011"
+},
+{
+  "adm4": "52.01.12.2012",
+  "desa": "Desa Bug-Bug",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2012"
+},
+{
+  "adm4": "52.01.12.2013",
+  "desa": "Desa Gegelang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2013"
+},
+{
+  "adm4": "52.01.12.2014",
+  "desa": "Desa Saribaye",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2014"
+},
+{
+  "adm4": "52.01.12.2015",
+  "desa": "Desa Gontoran",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.12.2015"
+}
+{
+  "adm4": "52.01.13.2001",
+  "desa": "Desa Lembar",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.13.2001"
+},
+{
+  "adm4": "52.01.13.2002",
+  "desa": "Desa Jembatan Kembar",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.13.2002"
+},
+{
+  "adm4": "52.01.13.2003",
+  "desa": "Desa Mareje",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.13.2003"
+},
+{
+  "adm4": "52.01.13.2004",
+  "desa": "Desa Sekotong Timur",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.13.2004"
+},
+{
+  "adm4": "52.01.13.2005",
+  "desa": "Desa Labuan Tereng",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.13.2005"
+},
+{
+  "adm4": "52.01.13.2006",
+  "desa": "Desa Jembatan Gantung",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.13.2006"
+},
+{
+  "adm4": "52.01.13.2007",
+  "desa": "Desa Lembar Selatan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.13.2007"
+},
+{
+  "adm4": "52.01.13.2008",
+  "desa": "Desa Mareje Timur",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.13.2008"
+},
+{
+  "adm4": "52.01.13.2009",
+  "desa": "Desa Jembatan Kembar Timur",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.13.2009"
+},
+{
+  "adm4": "52.01.13.2010",
+  "desa": "Desa Eyat Mayang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.13.2010"
+},
+{
+  "adm4": "52.01.14.2001",
+  "desa": "Desa Batulayar",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.14.2001"
+},
+{
+  "adm4": "52.01.14.2002",
+  "desa": "Desa Meninting",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.14.2002"
+},
+{
+  "adm4": "52.01.14.2003",
+  "desa": "Desa Sandik",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.14.2003"
+},
+{
+  "adm4": "52.01.14.2004",
+  "desa": "Desa Lembah Sari",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.14.2004"
+},
+{
+  "adm4": "52.01.14.2005",
+  "desa": "Desa Senteluk",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.14.2005"
+},
+{
+  "adm4": "52.01.14.2006",
+  "desa": "Desa Senggigi",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.14.2006"
+},
+{
+  "adm4": "52.01.14.2007",
+  "desa": "Desa Bengkaung",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.14.2007"
+},
+{
+  "adm4": "52.01.14.2008",
+  "desa": "Desa Pusuk Lestari",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.14.2008"
+},
+{
+  "adm4": "52.01.14.2009",
+  "desa": "Desa Batu Layar Barat",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.14.2009"
+}
+{
+  "adm4": "52.01.15.2001",
+  "desa": "Desa Kuripan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.15.2001"
+},
+{
+  "adm4": "52.01.15.2002",
+  "desa": "Desa Jagaraga",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.15.2002"
+},
+{
+  "adm4": "52.01.15.2003",
+  "desa": "Desa Kuripan Utara",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.15.2003"
+},
+{
+  "adm4": "52.01.15.2004",
+  "desa": "Desa Kuripan Selatan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.15.2004"
+},
+{
+  "adm4": "52.01.15.2005",
+  "desa": "Desa Kuripan Timur",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.15.2005"
+},
+{
+  "adm4": "52.01.15.2006",
+  "desa": "Desa Giri Sasak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.01.15.2006"
+},
+{
+  "adm4": "52.02.01.1001",
+  "desa": "Kelurahan Praya",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.1001"
+},
+{
+  "adm4": "52.02.01.1002",
+  "desa": "Kelurahan Leneng",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.1002"
+},
+{
+  "adm4": "52.02.01.1003",
+  "desa": "Kelurahan Gerunung",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.1003"
+},
+{
+  "adm4": "52.02.01.1004",
+  "desa": "Kelurahan Semayan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.1004"
+},
+{
+  "adm4": "52.02.01.1005",
+  "desa": "Kelurahan Perapen",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.1005"
+},
+{
+  "adm4": "52.02.01.1006",
+  "desa": "Kelurahan Tiwugalih",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.1006"
+},
+{
+  "adm4": "52.02.01.1007",
+  "desa": "Kelurahan Gonjak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.1007"
+},
+{
+  "adm4": "52.02.01.1008",
+  "desa": "Kelurahan Panji Sari",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.1008"
+},
+{
+  "adm4": "52.02.01.1009",
+  "desa": "Kelurahan Renteng",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.1009"
+},
+{
+  "adm4": "52.02.01.2010",
+  "desa": "Desa Mertak Tombok",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.2010"
+},
+{
+  "adm4": "52.02.01.2011",
+  "desa": "Desa Aik Mual",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.2011"
+},
+{
+  "adm4": "52.02.01.2012",
+  "desa": "Desa Montong Terep",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.2012"
+},
+{
+  "adm4": "52.02.01.2013",
+  "desa": "Desa Jago",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.2013"
+},
+{
+  "adm4": "52.02.01.2014",
+  "desa": "Desa Bunut Baok",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.2014"
+},
+{
+  "adm4": "52.02.01.2015",
+  "desa": "Desa Mekar Damai",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.01.2015"
+}
+{
+  "adm4": "52.02.02.2001",
+  "desa": "Desa Barejulat",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.02.2001"
+},
+{
+  "adm4": "52.02.02.2002",
+  "desa": "Desa Ubung",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.02.2002"
+},
+{
+  "adm4": "52.02.02.2003",
+  "desa": "Desa Jelantik",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.02.2003"
+},
+{
+  "adm4": "52.02.02.2004",
+  "desa": "Desa Labulia",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.02.2004"
+},
+{
+  "adm4": "52.02.02.2005",
+  "desa": "Desa Batu Tulis",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.02.2005"
+},
+{
+  "adm4": "52.02.02.2006",
+  "desa": "Desa Perina",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.02.2006"
+},
+{
+  "adm4": "52.02.02.2007",
+  "desa": "Desa Pengenjek",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.02.2007"
+},
+{
+  "adm4": "52.02.02.2008",
+  "desa": "Desa Puyung",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.02.2008"
+},
+{
+  "adm4": "52.02.02.2009",
+  "desa": "Desa Nyerot",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.02.2009"
+},
+{
+  "adm4": "52.02.02.2010",
+  "desa": "Desa Sukarara",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.02.2010"
+},
+{
+  "adm4": "52.02.02.2011",
+  "desa": "Desa Gemel",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.02.2011"
+},
+{
+  "adm4": "52.02.02.2012",
+  "desa": "Desa Bonjeruk",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.02.2012"
+},
+{
+  "adm4": "52.02.02.2013",
+  "desa": "Desa Bunkate",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.02.2013"
+},
+{
+  "adm4": "52.02.03.2001",
+  "desa": "Desa Bujak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.03.2001"
+},
+{
+  "adm4": "52.02.03.2002",
+  "desa": "Desa Selebung",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.03.2002"
+},
+{
+  "adm4": "52.02.03.2003",
+  "desa": "Desa Peresak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.03.2003"
+},
+{
+  "adm4": "52.02.03.2004",
+  "desa": "Desa Mantang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.03.2004"
+},
+{
+  "adm4": "52.02.03.2005",
+  "desa": "Desa Aik Darek",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.03.2005"
+},
+{
+  "adm4": "52.02.03.2006",
+  "desa": "Desa Tampak Siring",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.03.2006"
+},
+{
+  "adm4": "52.02.03.2007",
+  "desa": "Desa Barabali",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.03.2007"
+},
+{
+  "adm4": "52.02.03.2008",
+  "desa": "Desa Beber",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.03.2008"
+},
+{
+  "adm4": "52.02.03.2009",
+  "desa": "Desa Pagutan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.03.2009"
+},
+{
+  "adm4": "52.02.03.2010",
+  "desa": "Desa Mekar Bersatu",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.03.2010"
+}
+{
+  "adm4": "52.02.04.2001",
+  "desa": "Desa Sengkol",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2001"
+},
+{
+  "adm4": "52.02.04.2002",
+  "desa": "Desa Segala Anyar",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2002"
+},
+{
+  "adm4": "52.02.04.2003",
+  "desa": "Desa Sukadana",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2003"
+},
+{
+  "adm4": "52.02.04.2004",
+  "desa": "Desa Teruwai",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2004"
+},
+{
+  "adm4": "52.02.04.2005",
+  "desa": "Desa Pengengat",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2005"
+},
+{
+  "adm4": "52.02.04.2006",
+  "desa": "Desa Kawo",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2006"
+},
+{
+  "adm4": "52.02.04.2007",
+  "desa": "Desa Gapura",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2007"
+},
+{
+  "adm4": "52.02.04.2008",
+  "desa": "Desa Rembitan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2008"
+},
+{
+  "adm4": "52.02.04.2009",
+  "desa": "Desa Kuta",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2009"
+},
+{
+  "adm4": "52.02.04.2010",
+  "desa": "Desa Pengembur",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2010"
+},
+{
+  "adm4": "52.02.04.2011",
+  "desa": "Desa Tumpak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2011"
+},
+{
+  "adm4": "52.02.04.2012",
+  "desa": "Desa Mertak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2012"
+},
+{
+  "adm4": "52.02.04.2013",
+  "desa": "Desa Prabu",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2013"
+},
+{
+  "adm4": "52.02.04.2014",
+  "desa": "Desa Tanak Awu",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2014"
+},
+{
+  "adm4": "52.02.04.2015",
+  "desa": "Desa Ketara",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2015"
+},
+{
+  "adm4": "52.02.04.2016",
+  "desa": "Desa Bangket Parak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.04.2016"
+},
+{
+  "adm4": "52.02.05.2001",
+  "desa": "Desa Bonder",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.05.2001"
+},
+{
+  "adm4": "52.02.05.2002",
+  "desa": "Desa Banyu Urip",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.05.2002"
+},
+{
+  "adm4": "52.02.05.2003",
+  "desa": "Desa Mangkung",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.05.2003"
+},
+{
+  "adm4": "52.02.05.2004",
+  "desa": "Desa Kateng",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.05.2004"
+},
+{
+  "adm4": "52.02.05.2005",
+  "desa": "Desa Setanggor",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.05.2005"
+},
+{
+  "adm4": "52.02.05.2006",
+  "desa": "Desa Penujak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.05.2006"
+},
+{
+  "adm4": "52.02.05.2007",
+  "desa": "Desa Selong Blanak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.05.2007"
+},
+{
+  "adm4": "52.02.05.2008",
+  "desa": "Desa Mekar Sari",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.05.2008"
+},
+{
+  "adm4": "52.02.05.2009",
+  "desa": "Desa Batujai",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.05.2009"
+},
+{
+  "adm4": "52.02.05.2010",
+  "desa": "Desa Tanak Rarang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.05.2010"
+}
+{
+  "adm4": "52.02.06.2001",
+  "desa": "Desa Sukaraja",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.06.2001"
+},
+{
+  "adm4": "52.02.06.2002",
+  "desa": "Desa Beleka",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.06.2002"
+},
+{
+  "adm4": "52.02.06.2003",
+  "desa": "Desa Semoyang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.06.2003"
+},
+{
+  "adm4": "52.02.06.2004",
+  "desa": "Desa Mujur",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.06.2004"
+},
+{
+  "adm4": "52.02.06.2005",
+  "desa": "Desa Landah",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.06.2005"
+},
+{
+  "adm4": "52.02.06.2006",
+  "desa": "Desa Sengkerang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.06.2006"
+},
+{
+  "adm4": "52.02.06.2007",
+  "desa": "Desa Bilelando",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.06.2007"
+},
+{
+  "adm4": "52.02.06.2008",
+  "desa": "Desa Ganti",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.06.2008"
+},
+{
+  "adm4": "52.02.06.2009",
+  "desa": "Desa Marong",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.06.2009"
+},
+{
+  "adm4": "52.02.06.2010",
+  "desa": "Desa Kidang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.06.2010"
+},
+{
+  "adm4": "52.02.07.2001",
+  "desa": "Desa Lekor",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.07.2001"
+},
+{
+  "adm4": "52.02.07.2002",
+  "desa": "Desa Langko",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.07.2002"
+},
+{
+  "adm4": "52.02.07.2003",
+  "desa": "Desa Janapria",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.07.2003"
+},
+{
+  "adm4": "52.02.07.2004",
+  "desa": "Desa Loang Maka",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.07.2004"
+},
+{
+  "adm4": "52.02.07.2005",
+  "desa": "Desa Saba",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.07.2005"
+},
+{
+  "adm4": "52.02.07.2006",
+  "desa": "Desa Bakan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.07.2006"
+},
+{
+  "adm4": "52.02.07.2007",
+  "desa": "Desa Durian",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.07.2007"
+},
+{
+  "adm4": "52.02.07.2008",
+  "desa": "Desa Pendem",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.07.2008"
+},
+{
+  "adm4": "52.02.07.2009",
+  "desa": "Desa Selebung Rembiga",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.07.2009"
+},
+{
+  "adm4": "52.02.07.2010",
+  "desa": "Desa Kerembong",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.07.2010"
+},
+{
+  "adm4": "52.02.07.2011",
+  "desa": "Desa Jango",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.07.2011"
+},
+{
+  "adm4": "52.02.07.2012",
+  "desa": "Desa Setuta",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.07.2012"
+}
+{
+  "adm4": "52.02.08.2001",
+  "desa": "Desa Pringarata",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.08.2001"
+},
+{
+  "adm4": "52.02.08.2002",
+  "desa": "Desa Sepakek",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.08.2002"
+},
+{
+  "adm4": "52.02.08.2003",
+  "desa": "Desa Murbaya",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.08.2003"
+},
+{
+  "adm4": "52.02.08.2004",
+  "desa": "Desa Bagu",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.08.2004"
+},
+{
+  "adm4": "52.02.08.2005",
+  "desa": "Desa Sintung",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.08.2005"
+},
+{
+  "adm4": "52.02.08.2006",
+  "desa": "Desa Bilebante",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.08.2006"
+},
+{
+  "adm4": "52.02.08.2007",
+  "desa": "Desa Pemepek",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.08.2007"
+},
+{
+  "adm4": "52.02.08.2008",
+  "desa": "Desa Menemeng",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.08.2008"
+},
+{
+  "adm4": "52.02.08.2009",
+  "desa": "Desa Arjangka",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.08.2009"
+},
+{
+  "adm4": "52.02.08.2010",
+  "desa": "Desa Taman Indah",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.08.2010"
+},
+{
+  "adm4": "52.02.08.2011",
+  "desa": "Desa Sisik",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.08.2011"
+},
+{
+  "adm4": "52.02.09.2001",
+  "desa": "Desa Lendang Are",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.09.2001"
+},
+{
+  "adm4": "52.02.09.2002",
+  "desa": "Desa Monggas",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.09.2002"
+},
+{
+  "adm4": "52.02.09.2003",
+  "desa": "Desa Muncan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.09.2003"
+},
+{
+  "adm4": "52.02.09.2004",
+  "desa": "Desa Bebuak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.09.2004"
+},
+{
+  "adm4": "52.02.09.2005",
+  "desa": "Desa Kopang Rembiga",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.09.2005"
+},
+{
+  "adm4": "52.02.09.2006",
+  "desa": "Desa Dasan Baru",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.09.2006"
+},
+{
+  "adm4": "52.02.09.2007",
+  "desa": "Desa Montong Gamang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.09.2007"
+},
+{
+  "adm4": "52.02.09.2008",
+  "desa": "Desa Darmaji",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.09.2008"
+},
+{
+  "adm4": "52.02.09.2009",
+  "desa": "Desa Wajageseng",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.09.2009"
+},
+{
+  "adm4": "52.02.09.2010",
+  "desa": "Desa Aik Bual",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.09.2010"
+},
+{
+  "adm4": "52.02.09.2011",
+  "desa": "Desa Semparu",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.09.2011"
+}
+{
+  "adm4": "52.02.10.1001",
+  "desa": "Kelurahan Gerantung",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.10.1001"
+},
+{
+  "adm4": "52.02.10.1002",
+  "desa": "Kelurahan Jontlak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.10.1002"
+},
+{
+  "adm4": "52.02.10.1003",
+  "desa": "Kelurahan Sasake",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.10.1003"
+},
+{
+  "adm4": "52.02.10.2004",
+  "desa": "Desa Jurang Jaler",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.10.2004"
+},
+{
+  "adm4": "52.02.10.2005",
+  "desa": "Desa Beraim",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.10.2005"
+},
+{
+  "adm4": "52.02.10.2006",
+  "desa": "Desa Batunyala",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.10.2006"
+},
+{
+  "adm4": "52.02.10.2007",
+  "desa": "Desa Lajut",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.10.2007"
+},
+{
+  "adm4": "52.02.10.2008",
+  "desa": "Desa Pengadang",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.10.2008"
+},
+{
+  "adm4": "52.02.10.2009",
+  "desa": "Desa Kelebuh",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.10.2009"
+},
+{
+  "adm4": "52.02.10.2010",
+  "desa": "Desa Pejanggik",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.10.2010"
+},
+{
+  "adm4": "52.02.10.2011",
+  "desa": "Desa Dakung",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.10.2011"
+},
+{
+  "adm4": "52.02.10.2012",
+  "desa": "Desa Prai Meke",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.10.2012"
+},
+{
+  "adm4": "52.02.11.2001",
+  "desa": "Desa Montong Sapah",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.11.2001"
+},
+{
+  "adm4": "52.02.11.2002",
+  "desa": "Desa Ungga",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.11.2002"
+},
+{
+  "adm4": "52.02.11.2003",
+  "desa": "Desa Kabul",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.11.2003"
+},
+{
+  "adm4": "52.02.11.2004",
+  "desa": "Desa Pelambik",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.11.2004"
+},
+{
+  "adm4": "52.02.11.2005",
+  "desa": "Desa Darek",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.11.2005"
+},
+{
+  "adm4": "52.02.11.2006",
+  "desa": "Desa Ranggagata",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.11.2006"
+},
+{
+  "adm4": "52.02.11.2007",
+  "desa": "Desa Pandan Indah",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.11.2007"
+},
+{
+  "adm4": "52.02.11.2008",
+  "desa": "Desa Serage",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.11.2008"
+},
+{
+  "adm4": "52.02.11.2009",
+  "desa": "Desa Montong Ajan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.11.2009"
+},
+{
+  "adm4": "52.02.11.2010",
+  "desa": "Desa Batu Jangkih",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.11.2010"
+},
+{
+  "adm4": "52.02.11.2011",
+  "desa": "Desa Teduh",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.11.2011"
+}
+{
+  "adm4": "52.02.12.2001",
+  "desa": "Desa Lantan",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.12.2001"
+},
+{
+  "adm4": "52.02.12.2002",
+  "desa": "Desa Setiling",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.12.2002"
+},
+{
+  "adm4": "52.02.12.2003",
+  "desa": "Desa Tanak Beak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.12.2003"
+},
+{
+  "adm4": "52.02.12.2004",
+  "desa": "Desa Aik Bukaq",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.12.2004"
+},
+{
+  "adm4": "52.02.12.2005",
+  "desa": "Desa Teratak",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.12.2005"
+},
+{
+  "adm4": "52.02.12.2006",
+  "desa": "Desa Aik Berik",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.12.2006"
+},
+{
+  "adm4": "52.02.12.2007",
+  "desa": "Desa Mas-mas",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.12.2007"
+},
+{
+  "adm4": "52.02.12.2008",
+  "desa": "Desa Karang Sidemen",
+  "url": "https://api.bmkg.go.id/publik/prakiraan-cuaca?adm4=52.02.12.2008"
+}
